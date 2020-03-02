@@ -1,0 +1,1 @@
+create table products(id int primary key auto_increment,webname varchar(100),title varchar(200),price int,link varchar(200),photo varchar(200));

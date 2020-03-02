@@ -1,0 +1,69 @@
+<!doctype html>
+<html>
+	<link rel="stylesheet" href="/static/css/index.css"/>
+	
+
+	
+<head>
+<meta charset="utf-8">
+<title>
+	
+	{% block banner %}
+	{% endblock %}
+	
+	{% block js %}
+	{% endblock %}
+	
+	</title>
+</head>
+	<style>
+	
+#menu{
+	height: 50px;
+	background-color: #450024;
+	color:#ffffff;
+}
+
+#menu ul{
+	list-style-type: none;
+	font-size: 20px;
+	margin: 0;
+	margin-left: 25%;
+	
+}
+#menu li{
+	
+	display: inline;
+	padding-top: 10px;
+	color:#ffffff;
+	font-size:20px;
+	float:left;
+	margin-right: 5%;
+	
+
+}	
+a,a:link,a:visited{color:#ffffff;text-decoration: none}
+a:hover{color:#ffffff;text-decoration: none;}	
+</style>	
+	
+
+<body>
+	
+<div id="menu"> 
+	
+	<a href="/index.html"><img src="/static/images/logo1.png" style="float: left;margin-left: 2%" /></a>
+	
+	<ul>
+		 
+		<li><a href="/shop/">比價</a></li>
+		<li><a href="/news/">最新消息</a></li>
+		<li><a href="/stock/">股市</a></li>
+		<li><a href="/message/">留言</a></li>
+	</ul>
+</div>
+ {% block content %}
+ {% endblock %}
+
+ {% include 'footer.html' %}	
+</body>
+</html>

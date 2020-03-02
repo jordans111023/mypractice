@@ -1,0 +1,2 @@
+﻿create table stock(id int primary key auto_increment,date date,no varchar(20),amount int,open double,close double,high double,low double)
+

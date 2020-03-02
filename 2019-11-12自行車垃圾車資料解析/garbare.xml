@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+  <row>
+    <lineid>241017</lineid>
+    <car>063-VK</car>
+    <time>2019/11/12 21:58:23</time>
+    <location>新北市八里區中山路三段390號</location>
+    <longitude>121.36838</longitude>
+    <latitude>25.1357783333333</latitude>
+    <cityid>6500200</cityid>
+    <cityname>三重區</cityname>
+  </row>
+  <row>
+    <lineid>251004</lineid>
+    <car>009-UM</car>
+    <time>2019/11/12 21:59:30</time>
+    <location>新北市淡水區民權路92巷35-1號</location>
+    <longitude>121.462168333333</longitude>
+    <latitude>25.1267333333333</latitude>
+    <cityid>6501000</cityid>
+    <cityname>淡水區</cityname>
+  </row>
+  <row>
+    <lineid>251005</lineid>
+    <car>010-UM</car>
+    <time>2019/11/12 21:59:37</time>
+    <location>新北市淡水區鄧公路30巷1弄68號</location>
+    <longitude>121.454436666667</longitude>
+    <latitude>25.1694516666667</latitude>
+    <cityid>6501000</cityid>
+    <cityname>淡水區</cityname>
+  </row>
+  <row>
+    <lineid>251008</lineid>
+    <car>181-VK</car>
+    <time>2019/11/12 21:59:35</time>
+    <location>新北市淡水區學府路104號</location>
+    <longitude>121.449853333333</longitude>
+    <latitude>25.1718283333333</latitude>
+    <cityid>6501000</cityid>
+    <cityname>淡水區</cityname>
+  </row>
+  <row>
+    <lineid>251010</lineid>
+    <car>413-VK</car>
+    <time>2019/11/12 21:59:30</time>
+    <location>新北市淡水區中正路二段206號</location>
+    <longitude>121.426218333333</longitude>
+    <latitude>25.1890633333333</latitude>
+    <cityid>6501000</cityid>
+    <cityname>淡水區</cityname>
+  </row>
+  <row>
+    <lineid>251007</lineid>
+    <car>442-VK</car>
+    <time>2019/11/12 21:59:36</time>
+    <location>新北市淡水區北新路184巷43號</location>
+    <longitude>121.450828333333</longitude>
+    <latitude>25.1777766666667</latitude>
+    <cityid>6501000</cityid>
+    <cityname>淡水區</cityname>
+  </row>
+  <row>
+    <lineid>251006</lineid>
+    <car>561-UM</car>
+    <time>2019/11/12 21:43:54</time>
+    <location>新北市淡水區中正路11巷3號</location>
+    <longitude>121.437881666667</longitude>
+    <latitude>25.1707316666667</latitude>
+    <cityid>6501000</cityid>
+    <cityname>淡水區</cityname>
+  </row>
+  <row>
+    <lineid>251011</lineid>
+    <car>650-BX</car>
+    <time>2019/11/12 21:59:25</time>
+    <location>新北市淡水區水碓街7號</location>
+    <longitude>121.443176666667</longitude>
+    <latitude>25.1771316666667</latitude>
+    <cityid>6501000</cityid>
+    <cityname>淡水區</cityname>
+  </row>
+  <row>
+    <lineid>251003</lineid>
+    <car>673-BX</car>
+    <time>2019/11/12 21:59:34</time>
+    <location>新北市淡水區新春街90號</location>
+    <longitude>121.438876666667</longitude>
+    <latitude>25.1823366666667</latitude>
+    <cityid>6501000</cityid>
+    <cityname>淡水區</cityname>
+  </row>
+</data>

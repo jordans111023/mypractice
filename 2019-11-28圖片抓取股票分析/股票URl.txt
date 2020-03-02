@@ -1,0 +1,1 @@
+﻿    url='http://www.twse.com.tw/exchangeReport/STOCK_DAY?date=%s&stockNo=%s' %( date, stock)

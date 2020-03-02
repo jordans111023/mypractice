@@ -1,0 +1,3579 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="content-language" content="zh-tw"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="author" content="PChome線上購物"/>
+    <meta name="copyright" content="網路家庭版權所有、轉載必究 ● Copyright PChome Online"/>
+    <meta name="keywords"/>
+    <meta name="description"/>
+    <meta property="og:title" id="ogtitle" content="筆　記　電　腦"/>
+    <meta property="og:type" id="ogtype" content="product"/>
+    <meta property="og:url" id="ogurl" content="https://24h.pchome.com.tw/region/DHAA"/>
+    <meta property="og:site_name" content="PChome 24h購物"/>
+    <meta name="robots" content="NOODP"/>
+    <link id="canonical" rel="canonical" href="https://24h.pchome.com.tw/region/DHAA"/>
+    <link id="alternate" rel="alternate" href=""/>
+    <title>
+      筆　記　電　腦 - PChome 24h購物
+    </title>
+    <link rel="apple-touch-icon" type="image/x-icon" href="" sizes="64x64"/>
+    <link rel="icon" type="image/x-icon" href="" sizes="64x64"/>
+    <link rel="icon" type="image/x-icon" href="" sizes="32x32"/>
+    <link rel="icon" type="image/x-icon" href="" sizes="16x16"/>
+    <link type="text/css" href="//c.ecimg.tw/img/min/h24/css/region/rgh24-cssv6-20191021100922.css" rel="stylesheet"/>
+    <!--script type="text/javascript" src="//d.ecimg.tw/img/min/h24/js/region/rgh24jsv5-20191111151436.js"></script-->  </head>
+  <body>
+    <div id="EnterpriseContainer" class="ecsite-layout style_24h ecsite-store unblock">
+      <div id="CONTENT" class="layout-wrapper">
+        <div class="layout-north">
+          <dl class="site_enterprice">
+            <dt>
+              企業專區
+            </dt>
+            <dd>
+              <ul>
+                <li>
+                  此專區僅提供給
+                  <span class="msg">
+                    企業客戶
+                  </span>
+                  購買
+                </li>
+                <li>
+                  請輸入統一編號！
+                </li>
+                <li>
+                  <input id="comTaxId" maxlength="8" type="text" class="text" placeholder="請輸入統一編號"/>
+                  <span id="btnClear" class="ui-widget-x" style="display:none;">
+                  </span>
+                </li>
+                <li>
+                  <ul id="errMsg" class="msg">
+                  </ul>
+                </li>
+                <li>
+                  <ul class="bar_tool">
+                    <li>
+                      <span class="ui-btn b-cancel">
+                        取消
+                      </span>
+                    </li>
+                    <li>
+                      <span class="ui-btn b-submit">
+                        確定
+                      </span>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </dd>
+          </dl>
+        </div>
+      </div>
+    </div>
+    <div id="UnderageContainer" class="ecsite-layout style_24h ecsite-store unblock">
+      <div id="CONTENT" class="layout-wrapper">
+        <div class="layout-north">
+          <dl class="site_ticrf">
+            <dt>
+              敬告啟事-未成年者(註)請勿瀏覽及購買本館商品，本網站已依台灣網站內容分級規定處理。註：以當地國家法律規定之成年年齡為準。
+            </dt>
+            <dd>
+              <ul>
+                <li>
+                  <a class="forbid" href="javascript:void(0);">我未滿18歲，禁止進入</a>
+                </li>
+                <li>
+                  <a class="allow" href="javascript:void(0);">我已滿18歲，進入本館</a>
+                </li>
+              </ul>
+            </dd>
+          </dl>
+        </div>
+      </div>
+    </div>
+    <div id="WRAPPER" class="ecsite-layout style_24h ecsite-region s_limited">
+      <!-- HEADER start -->      <div id="HEADER">
+        <div class="block_H">
+          <div class="Ht">
+            <h1 class="logotype">
+              <a href="https://24h.pchome.com.tw">PChome 24h購物</a>
+            </h1>
+            <div class="site_nav">
+              <ul class="main_site" id="MainSiteContainer">
+              </ul>
+              <ul class="service" id="ServiceContainer">
+              </ul>
+            </div>
+          </div>
+          <div class="Hm">
+            <span class="shipping">
+              購物滿$490
+              <span>
+                免運費
+              </span>
+            </span>
+            <ul class="searchfield">
+              <li>
+                <input id="keyword" accesskey="S" type="text" class="text ac_input" placeholder="請輸入關鍵字" autocomplete="off"/>
+              </li>
+              <li>
+                <input id="doSearch" type="button" class="button" value="找商品"/>
+              </li>
+            </ul>
+            <a class="msg" href="https://ecvip.pchome.com.tw/?m=myaccount&c=service&f=showSearchService" "="">買不到通知我</a>
+            <a class="member" href="https://ecvip.pchome.com.tw/">顧客中心(查訂單、退貨、客服)</a>
+            <div id="region_ad_topLeft" class="site_evt">
+              <a href="https://ecvip.pchome.com.tw/web/pages/24hHelp.htm" title=""><img src="//b.ecimg.tw/img/sellad/SE00005503/SP_NAME1_20180104112503.JPG" alt="" title=""></a></a>
+            </div>
+            <dl id="SignContainer" class="site_roadsign prod">
+              <dd class="left">
+                <ul>
+                  <li class="r1f s_daily" _signid="h24/daily">
+                    <a class="sign" href="//24h.pchome.com.tw/sign/daily.htm">日用</a>
+                  </li>
+                  <li class="r2f s_food" _signid="h24/food">
+                    <a class="sign" href="//24h.pchome.com.tw/sign/food.htm">食品</a>
+                  </li>
+                  <li class="r3f s_life" _signid="h24/life">
+                    <a class="sign" href="//24h.pchome.com.tw/sign/life.htm">生活</a>
+                  </li>
+                  <li class="r4f s_outdoor" _signid="h24/outdoor">
+                    <a class="sign" href="//24h.pchome.com.tw/sign/outdoor.htm">運動戶外</a>
+                  </li>
+                  <li class="r5f s_beauty" _signid="h24/beauty">
+                    <a class="sign" href="//24h.pchome.com.tw/sign/beauty.htm">美妝</a>
+                  </li>
+                  <li class="r6f s_vogue" _signid="h24/vogue">
+                    <a class="sign" href="//24h.pchome.com.tw/sign/vogue.htm">衣鞋包錶</a>
+                  </li>
+                  <li class="mouseOverSensor unblock" style="height: 200px;">
+                     
+                  </li>
+                </ul>
+              </dd>
+              <dd class="right">
+                <ul>
+                  <li class="r1f s_3c" _signid="h24/3c">
+                    <a class="sign" href="//24h.pchome.com.tw/sign/3c.htm">3C</a>
+                  </li>
+                  <li class="r2f s_nb actived" _signid="h24/nb">
+                    <a class="sign" href="//24h.pchome.com.tw/sign/nb.htm">NB</a>
+                  </li>
+                  <li class="r3f s_mobile" _signid="h24/mobile">
+                    <a class="sign" href="//24h.pchome.com.tw/sign/mobile.htm">通訊</a>
+                  </li>
+                  <li class="r4f s_digi" _signid="h24/digi">
+                    <a class="sign" href="//24h.pchome.com.tw/sign/digi.htm">數位</a>
+                  </li>
+                  <li class="r5f s_ce" _signid="h24/ce">
+                    <a class="sign" href="//24h.pchome.com.tw/sign/ce.htm">家電</a>
+                  </li>
+                  <li class="r6f s_cp" _signid="h24/cp">
+                    <a class="sign" href="//24h.pchome.com.tw/sign/cp.htm">周邊</a>
+                  </li>
+                  <li class="mouseOverSensor unblock" style="height: 200px;">
+                     
+                  </li>
+                </ul>
+              </dd>
+            </dl>
+            <div id="ToothContainer" class="site_tooth row3f">
+              <div class="inside">
+                <ul class="r1f">
+                  <li _id="DHAZ">
+                    <a href="//24h.pchome.com.tw/region/DHAZ">Intel 第１０代</a>
+                  </li>
+                  <li _id="DHAA">
+                    <a href="//24h.pchome.com.tw/region/DHAA" class="actived">
+                      <span>
+                        筆　記　電　腦
+                      </span>
+                    </a>
+                  </li>
+                  <li _id="DHAU">
+                    <a href="//24h.pchome.com.tw/region/DHAU">輕　薄　筆　電</a>
+                  </li>
+                  <li _id="DHAT">
+                    <a href="//24h.pchome.com.tw/region/DHAT">2in1/觸控筆電</a>
+                  </li>
+                  <li _id="DHBE">
+                    <a href="//24h.pchome.com.tw/region/DHBE">商 用 筆 電</a>
+                  </li>
+                  <li _id="DHAW">
+                    <a href="//24h.pchome.com.tw/region/DHAW">電　競　筆　電</a>
+                  </li>
+                  <li _id="DYAJ">
+                    <a href="//24h.pchome.com.tw/region/DYAJ">APPLE 蘋果</a>
+                  </li>
+                </ul>
+                <ul class="r2f">
+                  <li _id="DHAF">
+                    <a href="//24h.pchome.com.tw/region/DHAF">ASUS 華　碩</a>
+                  </li>
+                  <li _id="DHAE">
+                    <a href="//24h.pchome.com.tw/region/DHAE">ACER 宏 碁</a>
+                  </li>
+                  <li _id="DHAG">
+                    <a href="//24h.pchome.com.tw/region/DHAG">HP 惠　普</a>
+                  </li>
+                  <li _id="DHBF">
+                    <a href="//24h.pchome.com.tw/region/DHBF">Lenovo 聯　想</a>
+                  </li>
+                  <li _id="DHAY">
+                    <a href="//24h.pchome.com.tw/region/DHAY">微 軟 Surface</a>
+                  </li>
+                  <li _id="DHAI">
+                    <a href="//24h.pchome.com.tw/region/DHAI">DELL 戴 爾</a>
+                  </li>
+                  <li _id="DHAX">
+                    <a href="//24h.pchome.com.tw/region/DHAX">ZenBook</a>
+                  </li>
+                  <li _id="DHBC">
+                    <a href="//24h.pchome.com.tw/region/DHBC">Concept D</a>
+                  </li>
+                  <li _id="DHAM">
+                    <a href="//24h.pchome.com.tw/region/DHAM">其  他  品  牌</a>
+                  </li>
+                </ul>
+                <ul class="r3f">
+                  <li _id="DHAS">
+                    <a href="//24h.pchome.com.tw/region/DHAS">ROG 潮流電競</a>
+                  </li>
+                  <li _id="DHAK">
+                    <a href="//24h.pchome.com.tw/region/DHAK">M S I 微星電競</a>
+                  </li>
+                  <li _id="DHAJ">
+                    <a href="//24h.pchome.com.tw/region/DHAJ">HP OMEN 電 競</a>
+                  </li>
+                  <li _id="DHAC">
+                    <a href="//24h.pchome.com.tw/region/DHAC">RAZER 電競</a>
+                  </li>
+                  <li _id="DHAV">
+                    <a href="//24h.pchome.com.tw/region/DHAV">GIGABYTE 電競</a>
+                  </li>
+                  <li _id="DHAB">
+                    <a href="//24h.pchome.com.tw/region/DHAB">ACER掠奪者電競</a>
+                  </li>
+                  <li _id="DGAX">
+                    <a href="//24h.pchome.com.tw/region/DGAX">Mac 周邊</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div id="ToothContainer" class="site_tooth row4f">
+              <div class="inside">
+                <ul class="r1f">
+                  <li _id="DHAZ">
+                    <a href="//24h.pchome.com.tw/region/DHAZ">Intel 第１０代</a>
+                  </li>
+                  <li _id="DHAA">
+                    <a href="//24h.pchome.com.tw/region/DHAA" class="actived">
+                      <span>
+                        筆　記　電　腦
+                      </span>
+                    </a>
+                  </li>
+                  <li _id="DHAU">
+                    <a href="//24h.pchome.com.tw/region/DHAU">輕　薄　筆　電</a>
+                  </li>
+                  <li _id="DHAT">
+                    <a href="//24h.pchome.com.tw/region/DHAT">2in1/觸控筆電</a>
+                  </li>
+                  <li _id="DHBE">
+                    <a href="//24h.pchome.com.tw/region/DHBE">商 用 筆 電</a>
+                  </li>
+                </ul>
+                <ul class="r2f">
+                  <li _id="DHAW">
+                    <a href="//24h.pchome.com.tw/region/DHAW">電　競　筆　電</a>
+                  </li>
+                  <li _id="DYAJ">
+                    <a href="//24h.pchome.com.tw/region/DYAJ">APPLE 蘋果</a>
+                  </li>
+                  <li _id="DHAF">
+                    <a href="//24h.pchome.com.tw/region/DHAF">ASUS 華　碩</a>
+                  </li>
+                  <li _id="DHAE">
+                    <a href="//24h.pchome.com.tw/region/DHAE">ACER 宏 碁</a>
+                  </li>
+                  <li _id="DHAG">
+                    <a href="//24h.pchome.com.tw/region/DHAG">HP 惠　普</a>
+                  </li>
+                  <li _id="DHBF">
+                    <a href="//24h.pchome.com.tw/region/DHBF">Lenovo 聯　想</a>
+                  </li>
+                </ul>
+                <ul class="r3f">
+                  <li _id="DHAY">
+                    <a href="//24h.pchome.com.tw/region/DHAY">微 軟 Surface</a>
+                  </li>
+                  <li _id="DHAI">
+                    <a href="//24h.pchome.com.tw/region/DHAI">DELL 戴 爾</a>
+                  </li>
+                  <li _id="DHAX">
+                    <a href="//24h.pchome.com.tw/region/DHAX">ZenBook</a>
+                  </li>
+                  <li _id="DHBC">
+                    <a href="//24h.pchome.com.tw/region/DHBC">Concept D</a>
+                  </li>
+                  <li _id="DHAM">
+                    <a href="//24h.pchome.com.tw/region/DHAM">其  他  品  牌</a>
+                  </li>
+                  <li _id="DHAS">
+                    <a href="//24h.pchome.com.tw/region/DHAS">ROG 潮流電競</a>
+                  </li>
+                </ul>
+                <ul class="r4f">
+                  <li _id="DHAK">
+                    <a href="//24h.pchome.com.tw/region/DHAK">M S I 微星電競</a>
+                  </li>
+                  <li _id="DHAJ">
+                    <a href="//24h.pchome.com.tw/region/DHAJ">HP OMEN 電 競</a>
+                  </li>
+                  <li _id="DHAC">
+                    <a href="//24h.pchome.com.tw/region/DHAC">RAZER 電競</a>
+                  </li>
+                  <li _id="DHAV">
+                    <a href="//24h.pchome.com.tw/region/DHAV">GIGABYTE 電競</a>
+                  </li>
+                  <li _id="DHAB">
+                    <a href="//24h.pchome.com.tw/region/DHAB">ACER掠奪者電競</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <dl id="FeaturedContainer" class="evt_box unblock">
+              <dd class="head">
+                精選頻道
+              </dd>
+              <dd class="body unblock">
+                <a class="prod_img" href="{0}"><img/></a>
+                <ul class="prod_info">
+                  <li>
+                    <a href="{1}">{2}</a>
+                  </li>
+                  <li>
+                    <a href="{3}">{4}</a>
+                  </li>
+                  <li>
+                    <a href="{5}">{6}</a>
+                  </li>
+                </ul>
+              </dd>
+            </dl>
+          </div>
+        </div>
+      </div>
+      <!-- HEADER end -->      <!-- CONTENT start -->      <div id="CONTENT" class="layout-wrapper">
+        <div class="layout-center">
+          <!-- block_N start -->          <div class="block_N">
+            <ul id="PathContainer" class="breadcrumbs">
+              <li>
+                <a href="http://www.pchome.com.tw">PChome</a>
+              </li>
+              <li>
+                <a href="https://shopping.pchome.com.tw">線上購物</a>
+              </li>
+              <li>
+                <a href="https://24h.pchome.com.tw">24h 購物</a>
+              </li>
+              <li>
+                <span>
+                  筆　記　電　腦
+                </span>
+              </li>
+              <li class="right">
+                台北巿6小時到貨，
+                <span class="msg">
+                  全台灣24小時到貨
+                  <a href="https://ecvip.pchome.com.tw/?m=myaccount&f=show24hHelp" target="_blank">說明</a>
+                </span>
+              </li>
+            </ul>
+          </div>
+          <!-- block_N class_title end -->          <!-- block_W start -->          <div class="block_W">
+            <a href="#" accesskey="L" alt="左方選單區塊"></a>
+            <!-- category start -->            <dl id="MenuContainer" class="category">
+              <dt>
+                筆　記　電　腦
+              </dt>
+              <dd>
+                <dl>
+                  <dt _id="DHAA32C" style="display: block;">
+                    本月最大檔特輯↘
+                  </dt>
+                  <dd style="display: block;">
+                    <ul>
+                      <li _id="DHAALV">
+                        <a href="//24h.pchome.com.tw/store/DHAALV" _href="/store/DHAALV">Intel 10代CPU★登場 </a>
+                      </li>
+                      <li _id="DHAAJE">
+                        <a href="//24h.pchome.com.tw/store/DHAAJE" _href="/store/DHAAJE">Zenbook★美力無邊</a>
+                      </li>
+                      <li _id="DHAAJA">
+                        <a href="//24h.pchome.com.tw/store/DHAAJA" _href="/store/DHAAJA">熱★13吋窄邊框</a>
+                      </li>
+                      <li _id="DHAAJF">
+                        <a href="//24h.pchome.com.tw/store/DHAAJF" _href="/store/DHAAJF">15吋輕薄GTX★看這裡</a>
+                      </li>
+                      <li _id="DHAAHX">
+                        <a href="//24h.pchome.com.tw/store/DHAAHX" _href="/store/DHAAHX">免花錢★開機內含office</a>
+                      </li>
+                      <li _id="DHAAD9">
+                        <a href="//24h.pchome.com.tw/store/DHAAD9" _href="/store/DHAAD9">熱★14吋窄邊框</a>
+                      </li>
+                      <li _id="DHAAJC">
+                        <a href="//24h.pchome.com.tw/store/DHAAJC" _href="/store/DHAAJC">熱★15吋窄邊框</a>
+                      </li>
+                      <li _id="DHAALI">
+                        <a href="//24h.pchome.com.tw/store/DHAALI" _href="/store/DHAALI">熱★17吋窄邊框</a>
+                      </li>
+                      <li _id="DHAB9E00">
+                        <a href="//24h.pchome.com.tw/store/DHAB9E00" _href="/store/DHAB9E00">指定★電競送好禮</a>
+                      </li>
+                      <li _id="DHAAHC">
+                        <a href="//24h.pchome.com.tw/store/DHAAHC" _href="/store/DHAAHC">★新一代電腦專區</a>
+                      </li>
+                      <li _id="DHAY1500">
+                        <a href="//24h.pchome.com.tw/store/DHAY1500" _href="/store/DHAY1500">Surface★福利品出清↘ </a>
+                      </li>
+                    </ul>
+                  </dd>
+                  <dt _id="DHAA76C" style="display: block;">
+                    Creator創作專區
+                  </dt>
+                  <dd style="display: block;">
+                    <ul>
+                      <li _id="DHAALG">
+                        <a href="//24h.pchome.com.tw/store/DHAALG" _href="/store/DHAALG">★Photography 攝影</a>
+                      </li>
+                      <li _id="DHAALF">
+                        <a href="//24h.pchome.com.tw/store/DHAALF" _href="/store/DHAALF">★ Design繪圖設計</a>
+                      </li>
+                      <li _id="DHAALH">
+                        <a href="//24h.pchome.com.tw/store/DHAALH" _href="/store/DHAALH">★Video Editing 影片編輯 </a>
+                      </li>
+                      <li _id="DHAALD">
+                        <a href="//24h.pchome.com.tw/store/DHAALD" _href="/store/DHAALD">★ 3D動畫</a>
+                      </li>
+                    </ul>
+                  </dd>
+                  <dt _id="DHAA04C" style="display: block;">
+                    ASUS筆電專區
+                  </dt>
+                  <dd style="display: block;">
+                    <ul>
+                      <li _id="DHAAFV">
+                        <a href="//24h.pchome.com.tw/store/DHAAFV" _href="/store/DHAAFV">● 熱銷排行榜</a>
+                      </li>
+                      <li _id="DHAALJ">
+                        <a href="//24h.pchome.com.tw/store/DHAALJ" _href="/store/DHAALJ">■智慧觸控板2.0 & 雙螢專區</a>
+                      </li>
+                      <li _id="DHAALM">
+                        <a href="//24h.pchome.com.tw/store/DHAALM" _href="/store/DHAALM">■ Laptop系列</a>
+                      </li>
+                      <li _id="DHAALQ">
+                        <a href="//24h.pchome.com.tw/store/DHAALQ" _href="/store/DHAALQ">→小筆電11吋 E203</a>
+                      </li>
+                      <li _id="DHAALS">
+                        <a href="//24h.pchome.com.tw/store/DHAALS" _href="/store/DHAALS">→14吋窄邊 E406</a>
+                      </li>
+                      <li _id="DHAALR">
+                        <a href="//24h.pchome.com.tw/store/DHAALR" _href="/store/DHAALR">→X系列高效輕薄</a>
+                      </li>
+                      <li _id="DHAACP">
+                        <a href="//24h.pchome.com.tw/store/DHAACP" _href="/store/DHAACP">● 輕薄</a>
+                      </li>
+                      <li _id="DHAALK">
+                        <a href="//24h.pchome.com.tw/store/DHAALK" _href="/store/DHAALK">→ ZenBook系列</a>
+                      </li>
+                      <li _id="DHAALL">
+                        <a href="//24h.pchome.com.tw/store/DHAALL" _href="/store/DHAALL">→ VivoBook系列</a>
+                      </li>
+                      <li _id="DHAAJ4">
+                        <a href="//24h.pchome.com.tw/store/DHAAJ4" _href="/store/DHAAJ4">● 電競</a>
+                      </li>
+                      <li _id="DHAALN">
+                        <a href="//24h.pchome.com.tw/store/DHAALN" _href="/store/DHAALN">→ ROG Gaming系列</a>
+                      </li>
+                      <li _id="DHAALO">
+                        <a href="//24h.pchome.com.tw/store/DHAALO" _href="/store/DHAALO">→ TUF Gaming系列</a>
+                      </li>
+                      <li _id="DHAACQ">
+                        <a href="//24h.pchome.com.tw/store/DHAACQ" _href="/store/DHAACQ">　 》2 in 1</a>
+                      </li>
+                      <li _id="DHAACR">
+                        <a href="//24h.pchome.com.tw/store/DHAACR" _href="/store/DHAACR">　 》商用</a>
+                      </li>
+                      <li _id="DHAALY">
+                        <a href="//24h.pchome.com.tw/store/DHAALY" _href="/store/DHAALY">■ ProArt 創作系列</a>
+                      </li>
+                      <li _id="DHAALP">
+                        <a href="//24h.pchome.com.tw/store/DHAALP" _href="/store/DHAALP">■ Chromebook</a>
+                      </li>
+                      <li _id="DHAA3S">
+                        <a href="//24h.pchome.com.tw/store/DHAA3S" _href="/store/DHAA3S">　→13吋 以下</a>
+                      </li>
+                      <li _id="DHAA3T">
+                        <a href="//24h.pchome.com.tw/store/DHAA3T" _href="/store/DHAA3T">　→14吋</a>
+                      </li>
+                      <li _id="DHAA2T">
+                        <a href="//24h.pchome.com.tw/store/DHAA2T" _href="/store/DHAA2T">　→15吋</a>
+                      </li>
+                      <li _id="DHAA42">
+                        <a href="//24h.pchome.com.tw/store/DHAA42" _href="/store/DHAA42">　→17吋 以上 </a>
+                      </li>
+                    </ul>
+                  </dd>
+                  <dt _id="DHAA03C" style="display: block;">
+                    ACER筆電專區
+                  </dt>
+                  <dd style="display: block;">
+                    <ul>
+                      <li _id="DHAAL5">
+                        <a href="//24h.pchome.com.tw/store/DHAAL5" _href="/store/DHAAL5">● HOT熱銷排行榜</a>
+                      </li>
+                      <li _id="DHAAL6">
+                        <a href="//24h.pchome.com.tw/store/DHAAL6" _href="/store/DHAAL6">● 輕薄窄邊框</a>
+                      </li>
+                      <li _id="DHAAL7">
+                        <a href="//24h.pchome.com.tw/store/DHAAL7" _href="/store/DHAAL7">● 超夯電競電玩</a>
+                      </li>
+                      <li _id="DHAALA">
+                        <a href="//24h.pchome.com.tw/store/DHAALA" _href="/store/DHAALA">● 優質高效能 </a>
+                      </li>
+                      <li _id="DHAAL8">
+                        <a href="//24h.pchome.com.tw/store/DHAAL8" _href="/store/DHAAL8">● 翻轉 / 觸控</a>
+                      </li>
+                      <li _id="DHAAL9">
+                        <a href="//24h.pchome.com.tw/store/DHAAL9" _href="/store/DHAAL9">● 商務人必備</a>
+                      </li>
+                      <li _id="DHAACF">
+                        <a href="//24h.pchome.com.tw/store/DHAACF" _href="/store/DHAACF">　→10~12吋</a>
+                      </li>
+                      <li _id="DHAA3R">
+                        <a href="//24h.pchome.com.tw/store/DHAA3R" _href="/store/DHAA3R">　→13吋</a>
+                      </li>
+                      <li _id="DHAA0K">
+                        <a href="//24h.pchome.com.tw/store/DHAA0K" _href="/store/DHAA0K">　→14吋</a>
+                      </li>
+                      <li _id="DHAA3Q">
+                        <a href="//24h.pchome.com.tw/store/DHAA3Q" _href="/store/DHAA3Q">　→15吋</a>
+                      </li>
+                      <li _id="DHAA3P">
+                        <a href="//24h.pchome.com.tw/store/DHAA3P" _href="/store/DHAA3P">　→17吋 </a>
+                      </li>
+                    </ul>
+                  </dd>
+                  <dt _id="DHAA07C" style="display: block;">
+                    HP 筆電專區
+                  </dt>
+                  <dd style="display: block;">
+                    <ul>
+                      <li _id="DHAG8300">
+                        <a href="//24h.pchome.com.tw/store/DHAG8300" _href="/store/DHAG8300">本週現省★CP最超值</a>
+                      </li>
+                      <li _id="DHAAL1">
+                        <a href="//24h.pchome.com.tw/store/DHAAL1" _href="/store/DHAAL1">● 熱銷排行榜</a>
+                      </li>
+                      <li _id="DHAAKX">
+                        <a href="//24h.pchome.com.tw/store/DHAAKX" _href="/store/DHAAKX">→ 輕薄窄邊框</a>
+                      </li>
+                      <li _id="DHAAKY">
+                        <a href="//24h.pchome.com.tw/store/DHAAKY" _href="/store/DHAAKY">→ 電競&娛樂</a>
+                      </li>
+                      <li _id="DHAAKZ">
+                        <a href="//24h.pchome.com.tw/store/DHAAKZ" _href="/store/DHAAKZ">→ 翻轉 / 觸控</a>
+                      </li>
+                      <li _id="DHAAL0">
+                        <a href="//24h.pchome.com.tw/store/DHAAL0" _href="/store/DHAAL0">→ 高CP值效能</a>
+                      </li>
+                      <li _id="DHAADV">
+                        <a href="//24h.pchome.com.tw/store/DHAADV" _href="/store/DHAADV">→ 高品質商務</a>
+                      </li>
+                      <li _id="DHAACZ">
+                        <a href="//24h.pchome.com.tw/store/DHAACZ" _href="/store/DHAACZ">　 》觸控</a>
+                      </li>
+                      <li _id="DHAACY">
+                        <a href="//24h.pchome.com.tw/store/DHAACY" _href="/store/DHAACY">　 》輕薄</a>
+                      </li>
+                      <li _id="DHAA1M">
+                        <a href="//24h.pchome.com.tw/store/DHAA1M" _href="/store/DHAA1M">　→13吋 以下</a>
+                      </li>
+                      <li _id="DHAA3K">
+                        <a href="//24h.pchome.com.tw/store/DHAA3K" _href="/store/DHAA3K">　→14吋</a>
+                      </li>
+                      <li _id="DHAA4L">
+                        <a href="//24h.pchome.com.tw/store/DHAA4L" _href="/store/DHAA4L">　→15吋</a>
+                      </li>
+                      <li _id="DHAA6C">
+                        <a href="//24h.pchome.com.tw/store/DHAA6C" _href="/store/DHAA6C">　→17吋</a>
+                      </li>
+                    </ul>
+                  </dd>
+                  <dt _id="DHAA18C" style="display: block;">
+                    Lenovo 筆電專區
+                  </dt>
+                  <dd style="display: block;">
+                    <ul>
+                      <li _id="DHAA5R">
+                        <a href="//24h.pchome.com.tw/store/DHAA5R" _href="/store/DHAA5R">　 》Y電競專區</a>
+                      </li>
+                      <li _id="DHAAD5">
+                        <a href="//24h.pchome.com.tw/store/DHAAD5" _href="/store/DHAAD5">　 》2 in 1觸控</a>
+                      </li>
+                      <li _id="DHAAD4">
+                        <a href="//24h.pchome.com.tw/store/DHAAD4" _href="/store/DHAAD4">　 》輕薄窄邊框</a>
+                      </li>
+                      <li _id="DHAAD6">
+                        <a href="//24h.pchome.com.tw/store/DHAAD6" _href="/store/DHAAD6">　 》C/P值高電競</a>
+                      </li>
+                      <li _id="DHAAAF">
+                        <a href="//24h.pchome.com.tw/store/DHAAAF" _href="/store/DHAAAF">　→12吋↓</a>
+                      </li>
+                      <li _id="DHAAA6">
+                        <a href="//24h.pchome.com.tw/store/DHAAA6" _href="/store/DHAAA6">　→13吋</a>
+                      </li>
+                      <li _id="DHAAAE">
+                        <a href="//24h.pchome.com.tw/store/DHAAAE" _href="/store/DHAAAE">　→14吋</a>
+                      </li>
+                      <li _id="DHAAA8">
+                        <a href="//24h.pchome.com.tw/store/DHAAA8" _href="/store/DHAAA8">　→15吋</a>
+                      </li>
+                    </ul>
+                  </dd>
+                  <dt _id="DHAA78C" style="display: block;">
+                    ConceptD概念家創
+                  </dt>
+                  <dd style="display: block;">
+                    <ul>
+                      <li _id="DHAALW">
+                        <a href="//24h.pchome.com.tw/store/DHAALW" _href="/store/DHAALW">ConceptD 7 系列  </a>
+                      </li>
+                    </ul>
+                  </dd>
+                  <dt _id="DHAA25C" style="display: block;">
+                    DELL筆電專區
+                  </dt>
+                  <dd style="display: block;">
+                    <ul>
+                      <li _id="DHAAIH">
+                        <a href="//24h.pchome.com.tw/store/DHAAIH" _href="/store/DHAAIH">　 》輕薄</a>
+                      </li>
+                      <li _id="DHAACW">
+                        <a href="//24h.pchome.com.tw/store/DHAACW" _href="/store/DHAACW">　 》電競</a>
+                      </li>
+                      <li _id="DHAACV">
+                        <a href="//24h.pchome.com.tw/store/DHAACV" _href="/store/DHAACV">　 》窄邊框</a>
+                      </li>
+                      <li _id="DHAABF">
+                        <a href="//24h.pchome.com.tw/store/DHAABF" _href="/store/DHAABF">　→11-13吋</a>
+                      </li>
+                      <li _id="DHAABG">
+                        <a href="//24h.pchome.com.tw/store/DHAABG" _href="/store/DHAABG">　→14吋</a>
+                      </li>
+                      <li _id="DHAABH">
+                        <a href="//24h.pchome.com.tw/store/DHAABH" _href="/store/DHAABH">　→15吋</a>
+                      </li>
+                    </ul>
+                  </dd>
+                  <dt _id="DHAA33C" style="display: block;">
+                    微軟Surface
+                  </dt>
+                  <dd style="display: block;">
+                    <ul>
+                      <li _id="DHAAJ9">
+                        <a href="//24h.pchome.com.tw/store/DHAAJ9" _href="/store/DHAAJ9">→Surface GO</a>
+                      </li>
+                      <li _id="DHAALZ">
+                        <a href="//24h.pchome.com.tw/store/DHAALZ" _href="/store/DHAALZ">→Surface Pro 7</a>
+                      </li>
+                      <li _id="DHAADR">
+                        <a href="//24h.pchome.com.tw/store/DHAADR" _href="/store/DHAADR">→Surface Pro 6</a>
+                      </li>
+                      <li _id="DHAADQ">
+                        <a href="//24h.pchome.com.tw/store/DHAADQ" _href="/store/DHAADQ">→Surface Laptop 2</a>
+                      </li>
+                      <li _id="DHAAIW">
+                        <a href="//24h.pchome.com.tw/store/DHAAIW" _href="/store/DHAAIW">→Surface Book2</a>
+                      </li>
+                      <li _id="DHAAIY">
+                        <a href="//24h.pchome.com.tw/store/DHAAIY" _href="/store/DHAAIY">→Surface Studio</a>
+                      </li>
+                    </ul>
+                  </dd>
+                  <dt _id="DHAA15C" style="display: block;">
+                    MSI 微星筆電
+                  </dt>
+                  <dd style="display: block;">
+                    <ul>
+                      <li _id="DHAAHO">
+                        <a href="//24h.pchome.com.tw/store/DHAAHO" _href="/store/DHAAHO">旗艦電競★新機上市 </a>
+                      </li>
+                      <li _id="DHAAHW">
+                        <a href="//24h.pchome.com.tw/store/DHAAHW" _href="/store/DHAAHW">熱銷★電競爆殺</a>
+                      </li>
+                      <li _id="DHAK5Q00">
+                        <a href="//24h.pchome.com.tw/store/DHAK5Q00" _href="/store/DHAK5Q00">■ 旗艦 GT 系列</a>
+                      </li>
+                      <li _id="DHAK5R00">
+                        <a href="//24h.pchome.com.tw/store/DHAK5R00" _href="/store/DHAK5R00">■ 輕薄 GS 系列</a>
+                      </li>
+                      <li _id="DHAK5S00">
+                        <a href="//24h.pchome.com.tw/store/DHAK5S00" _href="/store/DHAK5S00">■ 極致 GE 系列</a>
+                      </li>
+                      <li _id="DHAK5T00">
+                        <a href="//24h.pchome.com.tw/store/DHAK5T00" _href="/store/DHAK5T00">■ 效能 GP/GF 系列</a>
+                      </li>
+                      <li _id="DHAK5U00">
+                        <a href="//24h.pchome.com.tw/store/DHAK5U00" _href="/store/DHAK5U00">■ 戰鬥 GL/GV 系列</a>
+                      </li>
+                      <li _id="DHAK5V00">
+                        <a href="//24h.pchome.com.tw/store/DHAK5V00" _href="/store/DHAK5V00">■ 新世代筆電 P 系列</a>
+                      </li>
+                      <li _id="DHAK6400">
+                        <a href="//24h.pchome.com.tw/store/DHAK6400" _href="/store/DHAK6400">■ 行動繪圖工作站</a>
+                      </li>
+                      <li _id="DHAA2V">
+                        <a href="//24h.pchome.com.tw/store/DHAA2V" _href="/store/DHAA2V">　→14吋 </a>
+                      </li>
+                      <li _id="DHAA2W">
+                        <a href="//24h.pchome.com.tw/store/DHAA2W" _href="/store/DHAA2W">　→15吋 </a>
+                      </li>
+                      <li _id="DHAA4W">
+                        <a href="//24h.pchome.com.tw/store/DHAA4W" _href="/store/DHAA4W">　→17吋 以上</a>
+                      </li>
+                    </ul>
+                  </dd>
+                  <dt _id="DHAA65C" style="display: block;">
+                    RAZER筆電
+                  </dt>
+                  <dd style="display: block;">
+                    <ul>
+                      <li _id="DHAWDT00">
+                        <a href="//24h.pchome.com.tw/store/DHAWDT00" _href="/store/DHAWDT00">►13.3吋 Blade Stealth</a>
+                      </li>
+                      <li _id="DHAM4C00">
+                        <a href="//24h.pchome.com.tw/store/DHAM4C00" _href="/store/DHAM4C00">►15.6吋 Blade 15</a>
+                      </li>
+                      <li _id="DHACAE01">
+                        <a href="//24h.pchome.com.tw/store/DHACAE01" _href="/store/DHACAE01">►17.3吋Blade 17</a>
+                      </li>
+                    </ul>
+                  </dd>
+                  <dt _id="DHAA11C" style="display: block;">
+                    GIGABYTE技嘉NB
+                  </dt>
+                  <dd style="display: block;">
+                    <ul>
+                      <li _id="DHAV6K00">
+                        <a href="//24h.pchome.com.tw/store/DHAV6K00" _href="/store/DHAV6K00">▼AORUS全系列</a>
+                      </li>
+                      <li _id="DHAV6F00">
+                        <a href="//24h.pchome.com.tw/store/DHAV6F00" _href="/store/DHAV6F00">▼AERO 全系列</a>
+                      </li>
+                    </ul>
+                  </dd>
+                  <dt _id="DHAA77C" style="display: block;">
+                    VAIO筆電系列
+                  </dt>
+                  <dd style="display: block;">
+                    <ul>
+                      <li _id="DHAM4R00">
+                        <a href="//24h.pchome.com.tw/store/DHAM4R00" _href="/store/DHAM4R00">✰S11系列✰ </a>
+                      </li>
+                      <li _id="DHAM4T00">
+                        <a href="//24h.pchome.com.tw/store/DHAM4T00" _href="/store/DHAM4T00">✰A12系列✰</a>
+                      </li>
+                      <li _id="DHAM4X00">
+                        <a href="//24h.pchome.com.tw/store/DHAM4X00" _href="/store/DHAM4X00">✰SX12系列 ✰ </a>
+                      </li>
+                      <li _id="DHAM4S01">
+                        <a href="//24h.pchome.com.tw/store/DHAM4S01" _href="/store/DHAM4S01">✰S13系列✰ </a>
+                      </li>
+                      <li _id="DHAM4U00">
+                        <a href="//24h.pchome.com.tw/store/DHAM4U00" _href="/store/DHAM4U00">✰SE14系列✰</a>
+                      </li>
+                      <li _id="DHAM4V00">
+                        <a href="//24h.pchome.com.tw/store/DHAM4V00" _href="/store/DHAM4V00">✰SX14系列✰</a>
+                      </li>
+                    </ul>
+                  </dd>
+                  <dt _id="DHAA17C" style="display: block;">
+                    Panasonic 筆電
+                  </dt>
+                  <dd style="display: block;">
+                    <ul>
+                      <li _id="DHAM3H00">
+                        <a href="//24h.pchome.com.tw/store/DHAM3H00" _href="/store/DHAM3H00">✰日本製商用12.1吋</a>
+                      </li>
+                    </ul>
+                  </dd>
+                  <dt _id="DHAA00C" style="display: block;">
+                    Fujitsu筆記電腦
+                  </dt>
+                  <dd style="display: block;">
+                    <ul>
+                      <li _id="DHAM0H01">
+                        <a href="//24h.pchome.com.tw/store/DHAM0H01" _href="/store/DHAM0H01">✰LIFEBOOK✰ E 系列</a>
+                      </li>
+                      <li _id="DHAM0H02">
+                        <a href="//24h.pchome.com.tw/store/DHAM0H02" _href="/store/DHAM0H02">✰LIFEBOOK✰ U系列</a>
+                      </li>
+                      <li _id="DHAA54">
+                        <a href="//24h.pchome.com.tw/store/DHAA54" _href="/store/DHAA54">　→12吋</a>
+                      </li>
+                      <li _id="DHAA01">
+                        <a href="//24h.pchome.com.tw/store/DHAA01" _href="/store/DHAA01">　→13吋</a>
+                      </li>
+                      <li _id="DHAA00">
+                        <a href="//24h.pchome.com.tw/store/DHAA00" _href="/store/DHAA00">　→14吋</a>
+                      </li>
+                      <li _id="DHAA09">
+                        <a href="//24h.pchome.com.tw/store/DHAA09" _href="/store/DHAA09">　→15吋 以上</a>
+                      </li>
+                    </ul>
+                  </dd>
+                  <dt _id="DHAA67C" style="display: block;">
+                    LG 筆電專區
+                  </dt>
+                  <dd style="display: block;">
+                    <ul>
+                      <li _id="DHAAIZ">
+                        <a href="//24h.pchome.com.tw/store/DHAAIZ" _href="/store/DHAAIZ">LG Gram 全系列筆電</a>
+                      </li>
+                      <li _id="DHAAL2">
+                        <a href="//24h.pchome.com.tw/store/DHAAL2" _href="/store/DHAAL2">→ 14吋</a>
+                      </li>
+                      <li _id="DHAAL3">
+                        <a href="//24h.pchome.com.tw/store/DHAAL3" _href="/store/DHAAL3">→ 15吋</a>
+                      </li>
+                      <li _id="DHAAL4">
+                        <a href="//24h.pchome.com.tw/store/DHAAL4" _href="/store/DHAAL4">→ 17吋</a>
+                      </li>
+                    </ul>
+                  </dd>
+                  <dt _id="DHAA66C" style="display: block;">
+                    NEXSTGO筆電
+                  </dt>
+                  <dd style="display: block;">
+                    <ul>
+                      <li _id="DHAM3P00">
+                        <a href="//24h.pchome.com.tw/store/DHAM3P00" _href="/store/DHAM3P00">NEXSTGO</a>
+                      </li>
+                    </ul>
+                  </dd>
+                </dl>
+              </dd>
+            </dl>
+            <!-- category end -->          </div>
+          <!-- block_W end -->          <!-- block_C start -->          <div class="block_C">
+            <a href="#" accesskey="C" alt="中央區塊"></a>
+            <!-- Ct start -->            <div class="Ct">
+              <div class="Ct_N">
+                <div class="metro">
+                  24h購物-商品處理流程透明化
+                </div>
+              </div>
+            </div>
+            <!-- Ct end -->            <!-- Cm start -->            <div class="Cm">
+              <div class="Cm_C">
+                <!-- Cm_Cl start -->                <div class="Cm_Cl">
+                  <!-- unknown block start -->                  <a id="region_ad_inner" class="site_evt unblock" href=""><img alt=""/></a>
+                  <!-- unknown block end -->                  <a id="Block17Container" _id="17" class="site_evt" href="https://24h.pchome.com.tw/prod/DHBF2Y-A900ACWVL"><img src="//e.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20191217175437_b17-01-800x120.jpg"/></a>
+                  <!-- grab_box type_1 start -->                  <div id="Block4Container" class="grab_box type_1 unblock">
+                    <div class="left">
+                      <div class="evt_box">
+                        <div class="head">
+                          <p>
+                            {0}
+                          </p>
+                          <ul>
+                            <li>
+                              {1}
+                            </li>
+                            <li>
+                              <a href="{2}">{3}</a>
+                            </li>
+                            <li>
+                              <a href="{4}">{5}</a>
+                            </li>
+                          </ul>
+                        </div>
+                        <dl class="body">
+                          <dd class="mL">
+                            <a class="prod_img" href="{6}"><img alt="{8}"/></a>
+                          </dd>
+                          <dd class="mS">
+                            <a class="prod_img" href="{9}"><img alt="{11}"/></a>
+                            <div class="prod_info">
+                              <h5 class="prod_name">
+                                <a href="{9}">{12}</a>
+                              </h5>
+                              <ul class="price_box">
+                                <li>
+                                  網路價
+                                  <span class="price">
+                                    $
+                                    <span class="value">
+                                      {13}
+                                    </span>
+                                  </span>
+                                  <a href="{9}">搶購</a>
+                                </li>
+                              </ul>
+                            </div>
+                          </dd>
+                          <dd class="mS">
+                            <a class="prod_img" href="{14}"><img alt="{16}"/></a>
+                            <div class="prod_info">
+                              <h5 class="prod_name">
+                                <a href="{14}">{17}</a>
+                              </h5>
+                              <ul class="price_box">
+                                <li>
+                                  網路價
+                                  <span class="price">
+                                    $
+                                    <span class="value">
+                                      {18}
+                                    </span>
+                                  </span>
+                                  <a href="{14}">搶購</a>
+                                </li>
+                              </ul>
+                            </div>
+                          </dd>
+                        </dl>
+                      </div>
+                      <div class="evt_box clone">
+                        <div class="head">
+                          <p>
+                            {19}
+                          </p>
+                          <ul>
+                            <li>
+                              {20}
+                            </li>
+                            <li>
+                              <a href="{21}">{22}</a>
+                            </li>
+                            <li>
+                              <a href="{23}">{24}</a>
+                            </li>
+                          </ul>
+                        </div>
+                        <dl class="body">
+                          <dd class="mL">
+                            <a class="prod_img" href="{25}"><img alt="{27}"/></a>
+                          </dd>
+                          <dd class="mS">
+                            <a class="prod_img" href="{28}"><img alt="{30}"/></a>
+                            <div class="prod_info">
+                              <h5 class="prod_name">
+                                <a href="{28}">{31}</a>
+                              </h5>
+                              <ul class="price_box">
+                                <li>
+                                  網路價
+                                  <span class="price">
+                                    $
+                                    <span class="value">
+                                      {32}
+                                    </span>
+                                  </span>
+                                  <a href="{28}">搶購</a>
+                                </li>
+                              </ul>
+                            </div>
+                          </dd>
+                          <dd class="mS">
+                            <a class="prod_img" href="{33}"><img alt="{35}"/></a>
+                            <div class="prod_info">
+                              <h5 class="prod_name">
+                                <a href="{33}">{36}</a>
+                              </h5>
+                              <ul class="price_box">
+                                <li>
+                                  網路價
+                                  <span class="price">
+                                    $
+                                    <span class="value">
+                                      {37}
+                                    </span>
+                                  </span>
+                                  <a href="{33}">搶購</a>
+                                </li>
+                              </ul>
+                            </div>
+                          </dd>
+                        </dl>
+                      </div>
+                    </div>
+                    <div class="right">
+                      <dl>
+                        <dt>
+                          {38}
+                        </dt>
+                        <dd>
+                          <a class="prod_img" href="{39}"><img alt="{41}"/></a>
+                          <a class="prod_name" href="{39}">{42}</a>
+                        </dd>
+                        <dd>
+                          <a class="prod_img" href="{43}"><img alt="{45}"/></a>
+                          <a class="prod_name" href="{43}">{46}</a>
+                        </dd>
+                        <dd>
+                          <a class="prod_img" href="{47}"><img alt="{49}"/></a>
+                          <a class="prod_name" href="{47}">{50}</a>
+                        </dd>
+                        <dd>
+                          <a class="prod_img" href="{51}"><img alt="{53}"/></a>
+                          <a class="prod_name" href="{51}">{54}</a>
+                        </dd>
+                        <dd>
+                          <a class="prod_img" href="{55}"><img alt="{57}"/></a>
+                          <a class="prod_name" href="{55}">{58}</a>
+                        </dd>
+                      </dl>
+                    </div>
+                  </div>
+                  <!-- grab_box type_1 end -->                  <!-- grab_box type_2 start -->                  <div id="Block6Container" class="grab_box type_2">
+                    <a class="left" href="https://24h.pchome.com.tw/store/DHAG4Q"><img alt="" src="//b.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20191217180233_b6-01-220x360.jpg"/></a>
+                    <ul class="right">
+                      <li>
+                        <a class="prod_img" href="https://24h.pchome.com.tw/prod/DHBF2Y-A900ADTFY"><img alt="" src="//d.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20191217105946_b6-02-250x165.jpg"/></a>
+                      </li>
+                      <li>
+                        <a class="prod_img" href="https://24h.pchome.com.tw/store/DHAX9T"><img alt="" src="//f.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20191217111048_b6-03-250x165.jpg"/></a>
+                      </li>
+                      <li>
+                        <a class="prod_img" href="https://24h.pchome.com.tw/prod/DHAE6R-1900A7DMU"><img alt="" src="//c.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20191217103701_b6-04-250x165.jpg"/></a>
+                      </li>
+                      <li>
+                        <a class="prod_img" href="https://24h.pchome.com.tw/store/DHABA3"><img alt="" src="//e.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20191217103651_b6-05-250x165.jpg"/></a>
+                      </li>
+                    </ul>
+                  </div>
+                  <!-- grab_box type_2 end -->                  <!-- grab_box type_3 start -->                  <div id="Block1Container" class="grab_box type_3 unblock">
+                    <div class="left">
+                      <a class="prod_img" href="{0}"><img alt="{2}"/></a>
+                    </div>
+                    <ul class="right">
+                      <li>
+                        <a class="prod_img" href="{3}"><img alt="{5}"/></a>
+                      </li>
+                      <li>
+                        <a class="prod_img" href="{6}"><img alt="{8}"/></a>
+                      </li>
+                      <li>
+                        <a class="prod_img" href="{9}"><img alt="{11}"/></a>
+                      </li>
+                    </ul>
+                  </div>
+                  <!-- grab_box type_3 end -->                  <!-- grab_box type_4 start -->                  <div id="Block8Container" class="grab_box type_4 unblock">
+                    <ul>
+                      <li class="mL">
+                        <a class="prod_img" href="{0}"><img alt="{2}"/></a>
+                      </li>
+                      <li class="mS">
+                        <a class="prod_img" href="{3}"><img alt="{5}"/></a>
+                      </li>
+                      <li class="mS">
+                        <a class="prod_img" href="{6}"><img alt="{8}"/></a>
+                      </li>
+                    </ul>
+                  </div>
+                  <!-- grab_box type_4 end -->                  <!-- grab_box type_5 start -->                  <div id="Block3Container" class="grab_box type_5 unblock">
+                    <a class="prod_img" href="{0}"><img alt="{2}"/></a>
+                  </div>
+                  <!-- grab_box type_5 end -->                  <!-- grab_box type_6 start -->                  <div id="Block7Container" class="grab_box type_6 unblock">
+                  </div>
+                  <!-- grab_box type_6 end -->                  <!-- offer_box type_1 start -->                  <div id="Block12Container7" class="offer_box">
+                    <div class="mL" node="1" sys="0">
+                      <a class="prod_img" href="/prod/DHAG4T-A900ADKBL"><img alt="" src="//b.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20191217101332_b12-01-640x640.jpg"/></a>
+                      <div class="prod_info">
+                        <h5 class="prod_name">
+                          <a href="/prod/DHAG4T-A900ADKBL">
+                            <font color="RED">
+                              10代10奈米★現省4千
+                            </font>
+                            <br></b>
+                            <font color="black">
+                              HP 14吋窄邊輕薄
+                            </font>
+                          </a>
+                        </h5>
+                        <ul class="price_box">
+                          <li>
+                            <span class="price">
+                              $
+                              <span class="value">
+                                22900
+                              </span>
+                            </span>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                    <dl class="site_loop">
+                      <dd node="2" class="" sys="0">
+                        <a class="prod_img" href="/prod/DHAFFQ-A900ACREP"><img alt="" src="//d.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20191217101809_b12-02-320x320.jpg"/></a>
+                        <div class="prod_info">
+                          <h5 class="prod_name">
+                            <a href="/prod/DHAFFQ-A900ACREP">
+                              <font color="RED">
+                                輕1.4kg★殺破兩萬
+                              </font>
+                              <br></b>
+                              <font color="black">
+                                ASUS 13.3吋商用筆電
+                              </font>
+                            </a>
+                          </h5>
+                          <ul class="price_box">
+                            <li class="unblock">
+                              <span class="ico label-24h">
+                                24H到貨
+                              </span>
+                              <span class="price">
+                                $
+                                <span class="value">
+                                  19990
+                                </span>
+                              </span>
+                            </li>
+                            <li>
+                              網路價
+                              <span class="price">
+                                $
+                                <span class="value">
+                                  19990
+                                </span>
+                              </span>
+                            </li>
+                          </ul>
+                        </div>
+                      </dd>
+                      <dd node="3" class="" sys="0">
+                        <a class="prod_img" href="/prod/DHAB9N-A900A0AV2"><img alt="" src="//f.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20191217112641_b12-03-320x320.jpg"/></a>
+                        <div class="prod_info">
+                          <h5 class="prod_name">
+                            <a href="/prod/DHAB9N-A900A0AV2">
+                              <font color="RED">
+                                GTX1650★狂砍3千
+                              </font>
+                              <br></b>
+                              <font color="black">
+                                Acer 15.6吋窄邊電競
+                              </font>
+                            </a>
+                          </h5>
+                          <ul class="price_box">
+                            <li class="unblock">
+                              <span class="ico label-24h">
+                                24H到貨
+                              </span>
+                              <span class="price">
+                                $
+                                <span class="value">
+                                  30900
+                                </span>
+                              </span>
+                            </li>
+                            <li>
+                              網路價
+                              <span class="price">
+                                $
+                                <span class="value">
+                                  30900
+                                </span>
+                              </span>
+                            </li>
+                          </ul>
+                        </div>
+                      </dd>
+                      <dd node="4" class="" sys="0">
+                        <a class="prod_img" href="/prod/DHBF4D-1900AE3ZC"><img alt="" src="//c.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20191217100302_b12-04-320x320.jpg"/></a>
+                        <div class="prod_info">
+                          <h5 class="prod_name">
+                            <a href="/prod/DHBF4D-1900AE3ZC">
+                              <font color="RED">
+                                八代窄邊★1T+128G
+                              </font>
+                              <br></b>
+                              <font color="black">
+                                Lenovo 15吋效能筆電
+                              </font>
+                            </a>
+                          </h5>
+                          <ul class="price_box">
+                            <li class="unblock">
+                              <span class="ico label-24h">
+                                24H到貨
+                              </span>
+                              <span class="price">
+                                $
+                                <span class="value">
+                                  14990
+                                </span>
+                              </span>
+                            </li>
+                            <li>
+                              網路價
+                              <span class="price">
+                                $
+                                <span class="value">
+                                  14990
+                                </span>
+                              </span>
+                            </li>
+                          </ul>
+                        </div>
+                      </dd>
+                    </dl>
+                    <dl class="site_loop">
+                      <dd node="5" class="" sys="0">
+                        <a class="prod_img" href="/prod/DHAI6R-1900ACNEJ"><img alt="" src="//e.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20191217100158_b12-05-320x320.jpg"/></a>
+                        <div class="prod_info">
+                          <h5 class="prod_name">
+                            <a href="/prod/DHAI6R-1900ACNEJ">
+                              <font color="RED">
+                                10代i5★輕1.48KG
+                              </font>
+                              <br></b>
+                              <font color="black">
+                                Dell 14吋輕薄筆電
+                              </font>
+                            </a>
+                          </h5>
+                          <ul class="price_box">
+                            <li class="unblock">
+                              <span class="ico label-24h">
+                                24H到貨
+                              </span>
+                              <span class="price">
+                                $
+                                <span class="value">
+                                  24999
+                                </span>
+                              </span>
+                            </li>
+                            <li>
+                              網路價
+                              <span class="price">
+                                $
+                                <span class="value">
+                                  24999
+                                </span>
+                              </span>
+                            </li>
+                          </ul>
+                        </div>
+                      </dd>
+                      <dd node="6" class="" sys="0">
+                        <a class="prod_img" href="/prod/DHAFGA-A900A3WWN"><img alt="" src="//b.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20191203145456_b12-06-320x320.jpg"/></a>
+                        <div class="prod_info">
+                          <h5 class="prod_name">
+                            <a href="/prod/DHAFGA-A900A3WWN">
+                              <font color="RED">
+                                加碼送★1TB外接硬碟
+                              </font>
+                              <br></b>
+                              <font color="black">
+                                ASUS 15.6吋窄邊筆電
+                              </font>
+                            </a>
+                          </h5>
+                          <ul class="price_box">
+                            <li class="unblock">
+                              <span class="ico label-24h">
+                                24H到貨
+                              </span>
+                              <span class="price">
+                                $
+                                <span class="value">
+                                  24900
+                                </span>
+                              </span>
+                            </li>
+                            <li>
+                              網路價
+                              <span class="price">
+                                $
+                                <span class="value">
+                                  24900
+                                </span>
+                              </span>
+                            </li>
+                          </ul>
+                        </div>
+                      </dd>
+                      <dd node="7" class="" sys="0">
+                        <a class="prod_img" href="https://24h.pchome.com.tw/store/DHAV7M"><img alt="" src="//d.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20191119191622_b12-07-320x320.jpg"/></a>
+                        <div class="prod_info">
+                          <h5 class="prod_name">
+                            <a href="https://24h.pchome.com.tw/store/DHAV7M">
+                              <font color="RED">
+                                熱銷狂推★OLED 4K
+                              </font>
+                              <br></b>
+                              <font color="black">
+                                AERO 15 OLED NA
+                              </font>
+                            </a>
+                          </h5>
+                          <ul class="price_box">
+                            <li class="unblock">
+                              <span class="ico label-24h">
+                                24H到貨
+                              </span>
+                              <span class="price">
+                                $
+                                <span class="value">
+                                  49999
+                                </span>
+                              </span>
+                            </li>
+                            <li>
+                              網路價
+                              <span class="price">
+                                $
+                                <span class="value">
+                                  49999
+                                </span>
+                              </span>
+                            </li>
+                          </ul>
+                        </div>
+                      </dd>
+                    </dl>
+                  </div>
+                  <!-- offer_box type_1 end -->                  <dl id="Block12Container50" class="site_loop">
+                    <dd node="8" class="" sys="0">
+                      <a class="prod_img" href="/prod/DHAFHT-A900A6BM2"><img alt="" title="" src="//f.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20190807133501_b12-08-320x320.jpg"/></a>
+                      <div class="prod_info">
+                        <h5 class="nick">
+                          <a href="/prod/DHAFHT-A900A6BM2">
+                            <span class="extra">
+                            </span>
+                            ASUS ZenBook Pro Duo UX581GV-0031A9980HK 蒼宇藍 (i9-9980HK/32G/1TB SSD/RTX 2060獨顯/W10)
+                          </a>
+                        </h5>
+                        <span class="slogan">
+                          <font color="#FF00CC">
+                            美．力雙螢 創意無界★4K ScreenPad PLUS
+                          </font>
+                          <br></b>
+                          ASUS ZenBook Pro Duo UX581GV 蒼宇藍
+                          <br></b>
+                          <font color="#5c18d8">
+                            RTX2060獨顯★4K UHD OLED
+                          </font>
+                        </span>
+                        <ul class="price_box">
+                          <li>
+                            
+                網路價
+                            <span class="price">
+                              $
+                              <span class="value">
+                                119000
+                              </span>
+                            </span>
+                            <a href="/prod/DHAFHT-A900A6BM2">詳</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </dd>
+                    <dd node="9" class="" sys="0">
+                      <a class="prod_img" href="/prod/DHAFFL-A900A3Q5A"><img alt="" title="" src="//c.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20191020133838_b12-09-320x320.jpg"/></a>
+                      <div class="prod_info">
+                        <h5 class="nick">
+                          <a href="/prod/DHAFFL-A900A3Q5A">
+                            <span class="extra">
+                            </span>
+                            ASUS ZenBook S13 UX392FN-0032B8565U 冰河藍 (i7-8565U/16G/1TB M.2 SSD/MX 150 2G獨顯/13.9吋/W10)
+                          </a>
+                        </h5>
+                        <span class="slogan">
+                          <font color="#FF00CC">
+                            97%世界最高螢幕佔比x世界最窄邊框
+                          </font>
+                          <br></b>
+                          ASUS ZenBook S13 UX392FN 冰河藍
+                          <br></b>
+                          <font color="#5c18d8">
+                            ★輕1.1kg★全金屬機殼★獨創軸承設計
+                          </font>
+                        </span>
+                        <ul class="price_box">
+                          <li>
+                            
+                網路價
+                            <span class="price">
+                              $
+                              <span class="value">
+                                53900
+                              </span>
+                            </span>
+                            <a href="/prod/DHAFFL-A900A3Q5A">詳</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </dd>
+                    <dd node="10" class="" sys="0">
+                      <a class="prod_img" href="/prod/DHAG6P-A9009L7M4"><img alt="" title="" src="//e.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20191020134120_b12-10-320x320.jpg"/></a>
+                      <div class="prod_info">
+                        <h5 class="nick">
+                          <a href="/prod/DHAG6P-A9009L7M4">
+                            <span class="extra">
+                            </span>
+                            HP Spectre x360 Conve 13-ap0083TU (i7-8565U/16GB/2TB PCIe NVMe M.2 SSD/Win10/FHD)
+                          </a>
+                        </h5>
+                        <span class="slogan">
+                          <font color="#FF00CC">
+                            <strong>
+                              旗艦精品▼送Office 365
+                            </strong>
+                          </font>
+                          <br></b>
+                          HP Spectre x360 Conve 13-ap0083TU
+                          <font>
+                            <br></b>
+                            <font color="c90026">
+                              Core i7-8565U微邊框 || 內建防窺片螢幕 || 支援指紋辨識 || 360度翻轉觸控
+                            </font>
+                          </font>
+                        </span>
+                        <ul class="price_box">
+                          <li>
+                            
+                網路價
+                            <span class="price">
+                              $
+                              <span class="value">
+                                78900
+                              </span>
+                            </span>
+                            <a href="/prod/DHAG6P-A9009L7M4">詳</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </dd>
+                    <dd node="11" class="" sys="0">
+                      <a class="prod_img" href="/prod/DHAEF7-A900A9L0M"><img alt="" title="" src="//b.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20191020134551_b12-11-320x320.jpg"/></a>
+                      <div class="prod_info">
+                        <h5 class="nick">
+                          <a href="/prod/DHAEF7-A900A9L0M">
+                            <span class="extra">
+                            </span>
+                            ConceptD CN715-71-78L4(i7-9750H/16GB+16GB/RTX2080-8G/1TB+1TB PCIe SSD/W10P/4K UHD)
+                          </a>
+                        </h5>
+                        <span class="slogan">
+                          <font color="#FF00CC">
+                            <strong>
+                              新品上市▼首批購買送超值豪禮▼
+                            </strong>
+                          </font>
+                          <br></b>
+                          ConceptD CN715-71-78L4 15.6吋創作者筆電
+                          <br></b>
+                          <font>
+                            <font color="green">
+                              9代i7 ∥ 1TB+1TB PCIe SSD ∥ RTX2080-8G ∥ 4K高畫質
+                            </font>
+                          </font>
+                        </span>
+                        <ul class="price_box">
+                          <li>
+                            
+                網路價
+                            <span class="price">
+                              $
+                              <span class="value">
+                                128900
+                              </span>
+                            </span>
+                            <a href="/prod/DHAEF7-A900A9L0M">詳</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </dd>
+                    <dd node="12" class="" sys="0">
+                      <a class="prod_img" href="/prod/DHBF43-A900A61JY"><img alt="" title="" src="//d.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20190807133528_b12-12-320x320.jpg"/></a>
+                      <div class="prod_info">
+                        <h5 class="nick">
+                          <a href="/prod/DHBF43-A900A61JY">
+                            <span class="extra">
+                            </span>
+                            Lenovo IdeaPad YOGA S940-14IWL 81Q70011TW (i7-8565U/16G/1TB SSD/W10/14吋FHD/鐵灰)
+                          </a>
+                        </h5>
+                        <span class="slogan">
+                          <font color="red">
+                            <strong>
+                              <font color="a62834">
+                                八代處理器x輕1.2kgx14吋 FHD
+                              </font>
+                              <br></b>
+                              Lenovo IdeaPad YOGA S940
+                              <br></b>
+                              14吋快速1TB SSD筆電
+                            </strong>
+                          </font>
+                        </span>
+                        <ul class="price_box">
+                          <li>
+                            
+                網路價
+                            <span class="price">
+                              $
+                              <span class="value">
+                                61990
+                              </span>
+                            </span>
+                            <a href="/prod/DHBF43-A900A61JY">詳</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </dd>
+                    <dd node="13" class="" sys="0">
+                      <a class="prod_img" href="https://24h.pchome.com.tw/store/DHAFHW"><img alt="" title="" src="//f.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20170728181754_b12-13-120x120.jpg"/></a>
+                      <div class="prod_info">
+                        <h5 class="nick">
+                          <a href="https://24h.pchome.com.tw/store/DHAFHW">
+                            <span class="extra">
+                            </span>
+                            平價高CP筆電推薦
+                            <br></b>
+                            給你最划算的選擇
+                          </a>
+                        </h5>
+                        <span class="slogan">
+                          ► ►
+                          <font color="red">
+                            $6990up
+                          </font>
+                        </span>
+                        <ul class="price_box">
+                          <li>
+                            
+                網路價
+                            <span class="price">
+                              $
+                              <span class="value">
+                                8800
+                              </span>
+                            </span>
+                            <a href="https://24h.pchome.com.tw/store/DHAFHW">詳</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </dd>
+                    <dd node="14" class="" sys="0">
+                      <a class="prod_img" href="/prod/DHAFHW-1900A6B9Y"><img alt="" title="" src="//c.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20191020133034_b12-14-320x320.jpg"/></a>
+                      <div class="prod_info">
+                        <h5 class="nick">
+                          <a href="/prod/DHAFHW-1900A6B9Y">
+                            <span class="extra">
+                            </span>
+                            ASUS TP202NA-0101KN3350 星空灰 (Celeron N3350/4G/64GB/W10 Home S)
+                          </a>
+                        </h5>
+                        <span class="slogan">
+                          <font color="#FF00CC">
+                            <strong>
+                              ▼原價$11900 限時價$8800▼
+                            </strong>
+                          </font>
+                          <br></b>
+                          <font color="RED">
+                            ★內建Office365個人版一年份(市價$2190)
+                          </font>
+                          <br></b>
+                          ASUS TP202NA-0101KN3350 星空灰
+                          <br></b>
+                          <font color="#5c18d8">
+                            輕1.27kg★8小時電池續航力
+                          </font>
+                        </span>
+                        <ul class="price_box">
+                          <li>
+                            
+                網路價
+                            <span class="price">
+                              $
+                              <span class="value">
+                                8800
+                              </span>
+                            </span>
+                            <a href="/prod/DHAFHW-1900A6B9Y">詳</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </dd>
+                    <dd node="15" class="" sys="0">
+                      <a class="prod_img" href="DHBF3Z-A900A6CH4)"><img alt="" title="" src="//e.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20190713131956_b12-15-320x320.jpg"/></a>
+                      <div class="prod_info">
+                        <h5 class="nick">
+                          <a href="DHBF3Z-A900A6CH4)">
+                            <span class="extra">
+                            </span>
+                            Microsoft 微軟 Surface Pro 6 KJT-00022(i5-8250U/8G/256G/W10/黑色)
+                          </a>
+                        </h5>
+                        <span class="slogan">
+                          <font color="#FF00CC">
+                            <strong>
+                              限時送★鍵盤(市價$5490)
+                            </strong>
+                          </font>
+                          <br></b>
+                          Microsoft 微軟 Surface Pro 6 KJT-00022
+                          <br></b>
+                          (i5-8250U/8G/256G/W10/石墨黑色)
+                        </span>
+                        <ul class="price_box">
+                          <li>
+                            
+                網路價
+                            <span class="price">
+                              $
+                              <span class="value">
+                                38888
+                              </span>
+                            </span>
+                            <a href="DHBF3Z-A900A6CH4)">詳</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </dd>
+                    <dd node="16" class="" sys="0">
+                      <a class="prod_img" href="/prod/ DHBF1H-A9009XNBG"><img alt="" title="" src="//b.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20190713131856_b12-16-320x320.jpg"/></a>
+                      <div class="prod_info">
+                        <h5 class="nick">
+                          <a href="/prod/ DHBF1H-A9009XNBG">
+                            <span class="extra">
+                            </span>
+                            Lenovo IdeaPad D330-10IGM 81H3005YTW (N4000/4G/64G/W10/10點觸控/礦灰)
+                          </a>
+                        </h5>
+                        <span class="slogan">
+                          <font color="RED">
+                            輕薄 2 in 1★輕1.2Kg
+                          </font>
+                          <br></b>
+                          Lenovo IdeaPad D330-10IGM 81H3005YTW
+                        </span>
+                        <ul class="price_box">
+                          <li>
+                            
+                網路價
+                            <span class="price">
+                              $
+                              <span class="value">
+                                6990
+                              </span>
+                            </span>
+                            <a href="/prod/ DHBF1H-A9009XNBG">詳</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </dd>
+                    <dd node="17" class="" sys="0">
+                      <a class="prod_img" href="/prod/DHAG5J-19009ZRZD"><img alt="" title="" src="//d.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20190613095237_b12-17-320x320.jpg"/></a>
+                      <div class="prod_info">
+                        <h5 class="nick">
+                          <a href="/prod/DHAG5J-19009ZRZD">
+                            <span class="extra">
+                            </span>
+                            HP Pavilion x360 14(Core i5/4GB/MX130-2GB/256GB PCIe SSD/W10/FHD)
+                          </a>
+                        </h5>
+                        <span class="slogan">
+                          <font color="#FF00CC">
+                            <strong>
+                              原價$26900★翻轉觸控狂降$3901
+                            </strong>
+                          </font>
+                          <br></b>
+                          HP Pavilion x360 14 冰曜銀
+                          <br></b>
+                          <font>
+                            <font color="c90026">
+                              <strong>
+                                8代i5 ∥ 微邊框 ∥ MX130獨顯2G ∥ 256GB PCIe SSD
+                              </strong>
+                            </font>
+                          </font>
+                        </span>
+                        <ul class="price_box">
+                          <li>
+                            
+                網路價
+                            <span class="price">
+                              $
+                              <span class="value">
+                                22999
+                              </span>
+                            </span>
+                            <a href="/prod/DHAG5J-19009ZRZD">詳</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </dd>
+                    <dd node="18" class="" sys="0">
+                      <a class="prod_img" href="http://24h.pchome.com.tw/region/DHAU"><img alt="" title="" src="//f.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20161205184351_b12-18-120x120.jpg"/></a>
+                      <div class="prod_info">
+                        <h5 class="nick">
+                          <a href="http://24h.pchome.com.tw/region/DHAU">
+                            <span class="extra">
+                            </span>
+                            1.5kg內極致輕薄
+                            <br></b>
+                            外出攜帶輕鬆無負擔
+                          </a>
+                        </h5>
+                        <span class="slogan">
+                          ► ►
+                          <font color="red">
+                            $25900up
+                          </font>
+                        </span>
+                        <ul class="price_box">
+                          <li>
+                            
+                網路價
+                            <span class="price">
+                              $
+                              <span class="value">
+                                25900
+                              </span>
+                            </span>
+                            <a href="http://24h.pchome.com.tw/region/DHAU">詳</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </dd>
+                    <dd node="19" class="" sys="0">
+                      <a class="prod_img" href="/prod/DHAFIX-1900A87A0"><img alt="" title="" src="//c.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20191020133253_b12-19-320x320.jpg"/></a>
+                      <div class="prod_info">
+                        <h5 class="nick">
+                          <a href="/prod/DHAFIX-1900A87A0">
+                            <span class="extra">
+                            </span>
+                            ASUS X509FB-0051S8265U 冰河銀 (i5-8265U/4G/1TB+128G SSD/MX 110 2G獨顯/FHD/W10)
+                          </a>
+                        </h5>
+                        <span class="slogan">
+                          <font color="#FF00CC">
+                            <strong>
+                              ★原價22900，狂殺免2萬
+                            </strong>
+                          </font>
+                          <br></b>
+                          <font color="RED">
+                            原價$23900↘殺破兩萬
+                          </font>
+                          <br></b>
+                          <font color="BLUE">
+                            大尺寸窄邊x2G獨顯x輕1.9kg
+                          </font>
+                          <br></b>
+                          ASUS X509FB-0051S8265U 冰河銀
+                          <br></b>
+                          15.6吋窄邊筆電
+                        </span>
+                        <ul class="price_box">
+                          <li>
+                            
+                網路價
+                            <span class="price">
+                              $
+                              <span class="value">
+                                19900
+                              </span>
+                            </span>
+                            <a href="/prod/DHAFIX-1900A87A0">詳</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </dd>
+                    <dd node="20" class="" sys="0">
+                      <a class="prod_img" href="/prod/DHAG4M-1900A4302"><img alt="" title="" src="//e.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20191020134318_b12-20-320x320.jpg"/></a>
+                      <div class="prod_info">
+                        <h5 class="nick">
+                          <a href="/prod/DHAG4M-1900A4302">
+                            <span class="extra">
+                            </span>
+                            HP Pavilion 15-cs1064TX (i5-8265U/4GB/128GB SSD+1TB/MX130-2GB/W10/FHD)
+                          </a>
+                        </h5>
+                        <span class="slogan">
+                          <font color="#FF00CC">
+                            <strong>
+                              原價$25900★狂降2千送Office 365
+                            </strong>
+                          </font>
+                          <br></b>
+                          HP Pavilion 15-cs1064TX 冰曜銀
+                          <br></b>
+                          <font>
+                            <font color="c90026">
+                              <strong>
+                                8代i5窄邊框 ∥ 獨顯2G ∥ 128GB SSD+1TB
+                              </strong>
+                            </font>
+                          </font>
+                        </span>
+                        <ul class="price_box">
+                          <li>
+                            
+                網路價
+                            <span class="price">
+                              $
+                              <span class="value">
+                                23900
+                              </span>
+                            </span>
+                            <a href="/prod/DHAG4M-1900A4302">詳</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </dd>
+                    <dd node="21" class="" sys="0">
+                      <a class="prod_img" href="/prod/DHAECU-1900A8WC3"><img alt="" title="" src="//b.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20191020134401_b12-21-320x320.jpg"/></a>
+                      <div class="prod_info">
+                        <h5 class="nick">
+                          <a href="/prod/DHAECU-1900A8WC3">
+                            <span class="extra">
+                            </span>
+                            ACER Aspire A315-55G-589T 黑(i5-8265U/MX230-2G/4GB/256GB PCIe SSD+1TB/W10)
+                          </a>
+                        </h5>
+                        <span class="slogan">
+                          <font color="#FF00CC">
+                            <strong>
+                              原價$22900▼狂降2千
+                              <br></b>
+                              新機完美上市▼MX230獨顯
+                            </strong>
+                          </font>
+                          <br></b>
+                          Acer Aspire A315-55G-589T 黑
+                          <br></b>
+                          <font>
+                            <font color="green">
+                              8代i5 ∥ MX230獨顯2G ∥ 256G PCIe SSD+1TB
+                            </font>
+                          </font>
+                        </span>
+                        <ul class="price_box">
+                          <li>
+                            
+                網路價
+                            <span class="price">
+                              $
+                              <span class="value">
+                                20900
+                              </span>
+                            </span>
+                            <a href="/prod/DHAECU-1900A8WC3">詳</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </dd>
+                    <dd node="22" class="" sys="0">
+                      <a class="prod_img" href="/prod/DHBF2Y-1900A9LO1"><img alt="" title="" src="//d.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20191020133313_b12-22-320x320.jpg"/></a>
+                      <div class="prod_info">
+                        <h5 class="nick">
+                          <a href="/prod/DHBF2Y-1900A9LO1">
+                            <span class="extra">
+                            </span>
+                            Lenovo IdeaPad L340-15IWL 81LG0064TW(i5-8265U/4G/1TB+256G SSD/MX230 2G/W10/FHD/灰)
+                          </a>
+                        </h5>
+                        <span class="slogan">
+                          <font color="RED">
+                            ▼原價$25990 限時價$19990▼
+                          </font>
+                          <br></b>
+                          <font color="RED">
+                            15吋窄邊新機，1TB+256G★MX230獨顯
+                          </font>
+                          <br></b>
+                          Lenovo IdeaPad L340-15IWL 81LG0064TW
+                          <br></b>
+                          <font color="a62834">
+                            窄邊框x6.5小時電池續航力x杜比音效
+                          </font>
+                        </span>
+                        <ul class="price_box">
+                          <li>
+                            
+                網路價
+                            <span class="price">
+                              $
+                              <span class="value">
+                                19990
+                              </span>
+                            </span>
+                            <a href="/prod/DHBF2Y-1900A9LO1">詳</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </dd>
+                    <dd node="23" class="" sys="0">
+                      <a class="prod_img" href="http://24h.pchome.com.tw/region/DHAW"><img alt="" title="" src="//f.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20161205184434_b12-23-120x120.jpg"/></a>
+                      <div class="prod_info">
+                        <h5 class="nick">
+                          <a href="http://24h.pchome.com.tw/region/DHAW">
+                            <span class="extra">
+                            </span>
+                            高規CPUx顯卡
+                            <br></b>
+                             電競/繪圖必選筆電
+                          </a>
+                        </h5>
+                        <span class="slogan">
+                          ► ►
+                          <font color="red">
+                            $36900up
+                          </font>
+                        </span>
+                        <ul class="price_box">
+                          <li>
+                            
+                網路價
+                            <span class="price">
+                              $
+                              <span class="value">
+                                36900
+                              </span>
+                            </span>
+                            <a href="http://24h.pchome.com.tw/region/DHAW">詳</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </dd>
+                    <dd node="24" class="" sys="0">
+                      <a class="prod_img" href="/prod/DHAS4N-A900A8QR5"><img alt="" title="" src="//c.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20191020134751_b12-24-320x320.jpg"/></a>
+                      <div class="prod_info">
+                        <h5 class="nick">
+                          <a href="/prod/DHAS4N-A900A8QR5">
+                            <span class="extra">
+                            </span>
+                            ASUS ROG Zephyrus S GX502GV-B-0051B9750H 冰河藍 (i7-9750H/16G/PCIE 1TB SSD/RTX 2060 6G獨顯/W10)
+                          </a>
+                        </h5>
+                        <span class="slogan">
+                          <font color="#5c18d8">
+                            9代處理器★升級240Hz 3ms螢幕★再送電競豪禮
+                          </font>
+                          <br></b>
+                          <font color="#a23905">
+                            [Zephyrus西風之神]
+                          </font>
+                          ROG GX502GV 冰河藍
+                          <br></b>
+                          <font color="#5c18d8">
+                            RTX 2060 6G獨顯★升級1TB PCIE SSD
+                          </font>
+                        </span>
+                        <ul class="price_box">
+                          <li>
+                            
+                網路價
+                            <span class="price">
+                              $
+                              <span class="value">
+                                63900
+                              </span>
+                            </span>
+                            <a href="/prod/DHAS4N-A900A8QR5">詳</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </dd>
+                    <dd node="25" class="" sys="0">
+                      <a class="prod_img" href="/prod/DHAJ2T-1900A9YU9"><img alt="" title="" src="//e.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20191020134722_b12-25-320x320.jpg"/></a>
+                      <div class="prod_info">
+                        <h5 class="nick">
+                          <a href="/prod/DHAJ2T-1900A9YU9">
+                            <span class="extra">
+                            </span>
+                            HP OMEN 15-dh0121TX (i7-9750H/8GB/GTX1660Ti-6GB/512GB SSD+1TB/144Hz/W10/FHD)
+                          </a>
+                        </h5>
+                        <span class="slogan">
+                          <font color="#FF00CC">
+                            <strong>
+                              原價$54900★狂降再送電競豪禮
+                            </strong>
+                          </font>
+                          <br></b>
+                          OMEN 15-dh0121TX 暗影黑 電競筆電
+                          <br></b>
+                          <font>
+                            <font color="c90026">
+                              <strong>
+                                9代i7 ∥ 144Hz ∥ GTX1660Ti-6GB
+                              </strong>
+                            </font>
+                          </font>
+                        </span>
+                        <ul class="price_box">
+                          <li>
+                            
+                網路價
+                            <span class="price">
+                              $
+                              <span class="value">
+                                49900
+                              </span>
+                            </span>
+                            <a href="/prod/DHAJ2T-1900A9YU9">詳</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </dd>
+                    <dd node="26" class="" sys="0">
+                      <a class="prod_img" href="/prod/DHAI5G-A900A1SHJ"><img alt="" title="" src="//b.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20191020134502_b12-26-320x320.jpg"/></a>
+                      <div class="prod_info">
+                        <h5 class="nick">
+                          <a href="/prod/DHAI5G-A900A1SHJ">
+                            <span class="extra">
+                            </span>
+                            DELL Inspiron 15-7590-R1538BTW(i5-9300H/8GB/GTX1050/256G SSD/W10/FHD/Abyss Black)
+                          </a>
+                        </h5>
+                        <span class="slogan">
+                          <font color="#ff30b4">
+                            <strong>
+                              《第九代CPU》夏日輕巧便攜黑科技
+                            </strong>
+                          </font>
+                          <br></b>
+                          DELL Inspiron 15-7590-R1538BTW 黑
+                          <br></b>
+                          <font color="#0010e0">
+                            鎂合金 ∥ 第九代i5 ∥ 極輕1.59kg ∥ 三窄邊框超廣色域
+                          </font>
+                        </span>
+                        <ul class="price_box">
+                          <li>
+                            
+                網路價
+                            <span class="price">
+                              $
+                              <span class="value">
+                                39900
+                              </span>
+                            </span>
+                            <a href="/prod/DHAI5G-A900A1SHJ">詳</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </dd>
+                    <dd node="27" class="" sys="0">
+                      <a class="prod_img" href="/prod/DHAB9N-A9009VBH0"><img alt="" title="" src="//d.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20191020134630_b12-27-320x320.jpg"/></a>
+                      <div class="prod_info">
+                        <h5 class="nick">
+                          <a href="/prod/DHAB9N-A9009VBH0">
+                            <span class="extra">
+                            </span>
+                            ACER Predator PT515-51-74V7(i7-8750H/RTX 2080-8G/16 GB+16GB/512GB+512GB PCIe/W10/FHD)
+                          </a>
+                        </h5>
+                        <span class="slogan">
+                          ACER Predator PT515-51-74V7
+                          <br></b>
+                          (i7-8750H/RTX 2080-8G/16 GB+16GB/512GB+512GB PCIe/W10/FHD)
+                        </span>
+                        <ul class="price_box">
+                          <li>
+                            
+                網路價
+                            <span class="price">
+                              $
+                              <span class="value">
+                                94900
+                              </span>
+                            </span>
+                            <a href="/prod/DHAB9N-A9009VBH0">詳</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </dd>
+                    <dd node="28" class="" sys="0">
+                      <a class="prod_img" href="http://24h.pchome.com.tw/region/DHBE"><img alt="" title="" src="//f.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20161205184633_b12-28-120x120.jpg"/></a>
+                      <div class="prod_info">
+                        <h5 class="nick">
+                          <a href="http://24h.pchome.com.tw/region/DHBE">
+                            <span class="extra">
+                            </span>
+                            搭載Windows專業版
+                            <br></b>
+                            更安全地隨處工作
+                          </a>
+                        </h5>
+                        <span class="slogan">
+                          ► ►
+                          <font color="red">
+                            $22900up
+                          </font>
+                        </span>
+                        <ul class="price_box">
+                          <li>
+                            
+                網路價
+                            <span class="price">
+                              $
+                              <span class="value">
+                                22900
+                              </span>
+                            </span>
+                            <a href="http://24h.pchome.com.tw/region/DHBE">詳</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </dd>
+                    <dd node="29" class="" sys="0">
+                      <a class="prod_img" href="/prod/DHAFIE-A900A6EU1"><img alt="" title="" src="//c.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20190807133956_b12-29-320x320.jpg"/></a>
+                      <div class="prod_info">
+                        <h5 class="nick">
+                          <a href="/prod/DHAFIE-A900A6EU1">
+                            <span class="extra">
+                            </span>
+                            ASUS PRO-UX334FL-0063B8265U (i5-8265U/FHD/8G/PCIE 512G SSD/W10P/3Y)
+                          </a>
+                        </h5>
+                        <span class="slogan">
+                          <font color="RED">
+                            實體TPM安全有保障★同級尺寸世界體積最小商用筆電
+                          </font>
+                          <br></b>
+                          ASUS PRO-UX334FL-0063B8265U 皇家藍
+                          <br></b>
+                          <font color="#FF00CC">
+                            <strong>
+                              搭載ScreenPad 2.0 高效工作兼具娛樂
+                            </strong>
+                          </font>
+                        </span>
+                        <ul class="price_box">
+                          <li>
+                            
+                網路價
+                            <span class="price">
+                              $
+                              <span class="value">
+                                38880
+                              </span>
+                            </span>
+                            <a href="/prod/DHAFIE-A900A6EU1">詳</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </dd>
+                    <dd node="30" class="" sys="0">
+                      <a class="prod_img" href="/prod/DHAG7I-A900A4AN1"><img alt="" title="" src="//e.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20190719112730_b12-30-320x320.jpg"/></a>
+                      <div class="prod_info">
+                        <h5 class="nick">
+                          <a href="/prod/DHAG7I-A900A4AN1">
+                            <span class="extra">
+                            </span>
+                            (商) HP EliteBook 850 G6(i5-8365U/8GB/512GB SSD/WIN10 Pro/FHD)
+                          </a>
+                        </h5>
+                        <span class="slogan">
+                          <font color="#FF00CC">
+                            <strong>
+                              8代i5新機▼軍歸商務筆電
+                            </strong>
+                          </font>
+                          <br></b>
+                          HP EliteBook 850 G6
+                          <br></b>
+                          <font>
+                            <font color="c90026">
+                              8代Core i5 ∥360G PCIe SSD ∥ Windows 10 Pro
+                            </font>
+                          </font>
+                        </span>
+                        <ul class="price_box">
+                          <li>
+                            
+                網路價
+                            <span class="price">
+                              $
+                              <span class="value">
+                                46900
+                              </span>
+                            </span>
+                            <a href="/prod/DHAG7I-A900A4AN1">詳</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </dd>
+                    <dd node="31" class="" sys="0">
+                      <a class="prod_img" href="/prod/DHAED4-A900A61IO"><img alt="" title="" src="//b.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20190828184323_b12-31-320x320.jpg"/></a>
+                      <div class="prod_info">
+                        <h5 class="nick">
+                          <a href="/prod/DHAED4-A900A61IO">
+                            <span class="extra">
+                            </span>
+                            ACER TravelMate TMP2410-M-75PE(i7-7500U/8GB/512GB SSD/W10PRO)
+                          </a>
+                        </h5>
+                        <span class="slogan">
+                          ACER TMP2410-M-75PE
+                          <br></b>
+                          14吋商用筆電
+                          <br></b>
+                          <font color="red">
+                            TPM安全晶片
+                          </font>
+                          <br></b>
+                        </span>
+                        <ul class="price_box">
+                          <li>
+                            
+                網路價
+                            <span class="price">
+                              $
+                              <span class="value">
+                                23900
+                              </span>
+                            </span>
+                            <a href="/prod/DHAED4-A900A61IO">詳</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </dd>
+                    <dd node="32" class="" sys="0">
+                      <a class="prod_img" href="/prod/DHAFFM-A9009V1KC"><img alt="" title="" src="//d.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20190807133939_b12-32-320x320.jpg"/></a>
+                      <div class="prod_info">
+                        <h5 class="nick">
+                          <a href="/prod/DHAFFM-A9009V1KC">
+                            <span class="extra">
+                            </span>
+                            ASUS P5440FF-0201A8265U (i5-8265U/8Gx2/512G SSD/MX130 2G獨顯/W10P/2Y)
+                          </a>
+                        </h5>
+                        <span class="slogan">
+                          <font color="#FF00CC">
+                            <strong>
+                              通過八項美軍軍規測試★螢幕180度開闔
+                            </strong>
+                          </font>
+                          <br></b>
+                          <font>
+                            ASUS P5440FF-0201A8265U
+                            <br></b>
+                            <font>
+                              八代Core i5∥ 防潑水鍵盤
+                            </font>
+                          </font>
+                        </span>
+                        <ul class="price_box">
+                          <li>
+                            
+                網路價
+                            <span class="price">
+                              $
+                              <span class="value">
+                                35800
+                              </span>
+                            </span>
+                            <a href="/prod/DHAFFM-A9009V1KC">詳</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </dd>
+                    <dd node="33" class="" sys="0">
+                      <a class="prod_img" href="http://24h.pchome.com.tw/region/DHBC"><img alt="" title="" src="//f.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20161205184700_b12-33-120x120.jpg"/></a>
+                      <div class="prod_info">
+                        <h5 class="nick">
+                          <a href="http://24h.pchome.com.tw/region/DHBC">
+                            <span class="extra">
+                            </span>
+                            輕薄超好攜
+                            <br></b>
+                            特殊攜帶需求因應環境空間
+                          </a>
+                        </h5>
+                        <span class="slogan">
+                          ► ►
+                          <font color="red">
+                            $5990up
+                          </font>
+                        </span>
+                        <ul class="price_box">
+                          <li>
+                            
+                網路價
+                            <span class="price">
+                              $
+                              <span class="value">
+                                5990
+                              </span>
+                            </span>
+                            <a href="http://24h.pchome.com.tw/region/DHBC">詳</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </dd>
+                    <dd node="34" class="" sys="0">
+                      <a class="prod_img" href="https://24h.pchome.com.tw/store/DHAFCU"><img alt="" title="" src="//c.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20190807134047_b12-34-320x320.jpg"/></a>
+                      <div class="prod_info">
+                        <h5 class="nick">
+                          <a href="https://24h.pchome.com.tw/store/DHAFCU">
+                            <span class="extra">
+                            </span>
+                            ASUS E203MA-0091AN4000 珍珠白 (Celeron N4000/4G/64GB/W10 Home S)
+                          </a>
+                        </h5>
+                        <span class="slogan">
+                          <font color="RED">
+                            輕薄小筆電★僅980 克
+                          </font>
+                          <br></b>
+                          <font color="BLUE">
+                            <font>
+                              輕薄小筆電★僅980 克
+                              <br></b>
+                              <font color="BLACK">
+                                ASUS E203MA-0091AN4000 珍珠白
+                                <br></b>
+                                內含Office365 個人版一年(市價2190元)
+                              </font>
+                            </font>
+                          </font>
+                        </span>
+                        <ul class="price_box">
+                          <li>
+                            
+                網路價
+                            <span class="price">
+                              $
+                              <span class="value">
+                                7990
+                              </span>
+                            </span>
+                            <a href="https://24h.pchome.com.tw/store/DHAFCU">詳</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </dd>
+                    <dd node="35" class="" sys="0">
+                      <a class="prod_img" href="/prod/DHBF00-1900A9LB0"><img alt="" title="" src="//e.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20191020134926_b12-35-320x320.jpg"/></a>
+                      <div class="prod_info">
+                        <h5 class="nick">
+                          <a href="/prod/DHBF00-1900A9LB0">
+                            <span class="extra">
+                            </span>
+                            Lenovo IdeaPad S130 11IGM 81J100B4TW(N4100/4G/64G eMMC/W10S/公爵黑)
+                          </a>
+                        </h5>
+                        <span class="slogan">
+                          <font color="c90026">
+                            高CP值文書機★原價8990
+                          </font>
+                          <br></b>
+                          Lenovo IdeaPad S130-11IGM 81J100B4TW
+                          <br></b>
+                        </span>
+                        <ul class="price_box">
+                          <li>
+                            
+                網路價
+                            <span class="price">
+                              $
+                              <span class="value">
+                                6990
+                              </span>
+                            </span>
+                            <a href="/prod/DHBF00-1900A9LB0">詳</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </dd>
+                    <dd node="36" class="" sys="0">
+                      <a class="prod_img" href="/prod/DHBF0A-1900A733C"><img alt="" title="" src="//b.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20191020135051_b12-36-320x320.jpg"/></a>
+                      <div class="prod_info">
+                        <h5 class="nick">
+                          <a href="/prod/DHBF0A-1900A733C">
+                            <span class="extra">
+                            </span>
+                            Lenovo IdeaPad YOGA 330 11IGM 81A6003XTW (11.6吋/N4000/4G/128G/Win10/黑)
+                          </a>
+                        </h5>
+                        <span class="slogan">
+                          <font color="RED">
+                            ▼原價$13900 限時價$10990▼
+                          </font>
+                          p&gt;★翻轉折疊二合一 輕巧時尚★
+                          <br></b>
+                          Lenovo YOGA 330 11.6吋Intel雙核翻轉觸控筆電
+                        </span>
+                        <ul class="price_box">
+                          <li>
+                            
+                網路價
+                            <span class="price">
+                              $
+                              <span class="value">
+                                13990
+                              </span>
+                            </span>
+                            <a href="/prod/DHBF0A-1900A733C">詳</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </dd>
+                    <dd node="37" class="" sys="0">
+                      <a class="prod_img" href="/prod/DHAE6R-1900A7DK7"><img alt="" title="" src="//d.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20191020135133_b12-37-320x320.jpg"/></a>
+                      <div class="prod_info">
+                        <h5 class="nick">
+                          <a href="/prod/DHAE6R-1900A7DK7">
+                            <span class="extra">
+                            </span>
+                            ACER SF113-31-C4W7(Celeron N3350/eMMC 64GB/4GB DDR4/W10S)
+                          </a>
+                        </h5>
+                        <span class="slogan">
+                          ACER SF113-31-C4W7
+                          <br></b>
+                          <font color="green">
+                            <font>
+                              薄1.495 cm 輕1.3 kg ∥ 金屬機身 ∥ 指紋辨識 ∥ 內建Office365
+                            </font>
+                          </font>
+                        </span>
+                        <ul class="price_box">
+                          <li>
+                            
+                網路價
+                            <span class="price">
+                              $
+                              <span class="value">
+                                8888
+                              </span>
+                            </span>
+                            <a href="/prod/DHAE6R-1900A7DK7">詳</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </dd>
+                    <dd node="38" class="" sys="0">
+                      <a class="prod_img" href="http://24h.pchome.com.tw/region/DHAD"><img alt="" title="" src="//f.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20161205184723_b12-38-120x120.jpg"/></a>
+                      <div class="prod_info">
+                        <h5 class="nick">
+                          <a href="http://24h.pchome.com.tw/region/DHAD">
+                            <span class="extra">
+                            </span>
+                            超可攜重量低於2Kg
+                            <br></b>
+                            放置中型包包內沒問題
+                          </a>
+                        </h5>
+                        <span class="slogan">
+                          ► ►
+                          <font color="red">
+                            $25900up
+                          </font>
+                        </span>
+                        <ul class="price_box">
+                          <li>
+                            
+                網路價
+                            <span class="price">
+                              $
+                              <span class="value">
+                                25900
+                              </span>
+                            </span>
+                            <a href="http://24h.pchome.com.tw/region/DHAD">詳</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </dd>
+                    <dd node="39" class="" sys="0">
+                      <a class="prod_img" href="/prod/DHBF3I-1900A430W"><img alt="" title="" src="//c.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20190713132733_b12-39-320x320.jpg"/></a>
+                      <div class="prod_info">
+                        <h5 class="nick">
+                          <a href="/prod/DHBF3I-1900A430W">
+                            <span class="extra">
+                            </span>
+                            Lenovo IdeaPad YOGA S730 13IWL 81J0004GTW (i5-8265U/8G/256GB SSD/W10/13.3吋FHD/鐵灰)
+                          </a>
+                        </h5>
+                        <span class="slogan">
+                          <font color="RED">
+                            輕薄窄邊機↘狂殺
+                          </font>
+                          <br></b>
+                          <font>
+                            <font color="a62834">
+                              八代處理器x輕1.2kgx13.3吋 FHD
+                            </font>
+                            <br></b>
+                            Lenovo IdeaPad YOGA S730 13IWL 81J0004GTW
+                            <br></b>
+                            <font color="#5c18d8">
+                              3邊超極窄邊框★快速充電
+                            </font>
+                          </font>
+                        </span>
+                        <ul class="price_box">
+                          <li>
+                            
+                網路價
+                            <span class="price">
+                              $
+                              <span class="value">
+                                29990
+                              </span>
+                            </span>
+                            <a href="/prod/DHBF3I-1900A430W">詳</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </dd>
+                    <dd node="40" class="" sys="0">
+                      <a class="prod_img" href="/prod/DHAFHY-1900A3IE3"><img alt="" title="" src="//e.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20191020133525_b12-40-320x320.jpg"/></a>
+                      <div class="prod_info">
+                        <h5 class="nick">
+                          <a href="/prod/DHAFHY-1900A3IE3">
+                            <span class="extra">
+                            </span>
+                            ASUS VivoBook S S330FN-0042D8265U 閃漾金 (i5-8265U/8G/512G/MX150 2G獨顯/四邊窄/Win10/FHD)
+                          </a>
+                        </h5>
+                        <span class="slogan">
+                          <font color="#FF00CC">
+                            <strong>
+                              原價30900，特價26900
+                            </strong>
+                          </font>
+                          <br></b>
+                          ASUS VivoBook S330FN 閃漾金
+                          <br></b>
+                          <font color="#5c18d8">
+                            <strong>
+                              輕1.2kg★指紋辨識★含背光鍵盤
+                            </strong>
+                          </font>
+                          <br></b>
+                        </span>
+                        <ul class="price_box">
+                          <li>
+                            
+                網路價
+                            <span class="price">
+                              $
+                              <span class="value">
+                                26900
+                              </span>
+                            </span>
+                            <a href="/prod/DHAFHY-1900A3IE3">詳</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </dd>
+                    <dd node="41" class="" sys="0">
+                      <a class="prod_img" href="/prod/DHBF40-A900A3HUD"><img alt="" title="" src="//b.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20190807134139_b12-41-320x320.jpg"/></a>
+                      <div class="prod_info">
+                        <h5 class="nick">
+                          <a href="/prod/DHBF40-A900A3HUD">
+                            <span class="extra">
+                            </span>
+                            Lenovo IdeaPad S530-13IWL 81J700CETW (i5-8265U/8G/256G SSD/MX250 2G獨顯/W10/FHD/瑪瑙黑)
+                          </a>
+                        </h5>
+                        <span class="slogan">
+                          <font color="red">
+                            <strong>
+                              <font color="#FF00CC">
+                                原價29990，輕1.25kg★指紋辨識
+                              </font>
+                              <br></b>
+                              IdeaPad S530-13IWL 81J700CETW 13吋輕薄新機
+                              <br></b>
+                              <font color="a62834">
+                                MX250獨顯x12小時電池續航力
+                              </font>
+                            </strong>
+                          </font>
+                        </span>
+                        <ul class="price_box">
+                          <li>
+                            
+                網路價
+                            <span class="price">
+                              $
+                              <span class="value">
+                                26990
+                              </span>
+                            </span>
+                            <a href="/prod/DHBF40-A900A3HUD">詳</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </dd>
+                    <dd node="42" class="" sys="0">
+                      <a class="prod_img" href="/prod/DHAE6R-A900A5IVE"><img alt="" title="" src="//d.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20191020135207_b12-42-320x320.jpg"/></a>
+                      <div class="prod_info">
+                        <h5 class="nick">
+                          <a href="/prod/DHAE6R-A900A5IVE">
+                            <span class="extra">
+                            </span>
+                            ACER SF113-31-C4W7(Celeron N3350/eMMC 64GB/4GB DDR4/W10S)
+                          </a>
+                        </h5>
+                        <span class="slogan">
+                          <font color="#FF00CC">
+                            <strong>
+                              下殺免萬元▼限時加碼送2千點加碼金
+                            </strong>
+                          </font>
+                          <br></b>
+                          Acer SF113-31-C4W7
+                          <br></b>
+                          <font color="green">
+                            <font>
+                              薄1.495 cm 輕1.3 kg ∥ 金屬機身 ∥ 指紋辨識 ∥ 內建Office365
+                            </font>
+                          </font>
+                        </span>
+                        <ul class="price_box">
+                          <li>
+                            
+                網路價
+                            <span class="price">
+                              $
+                              <span class="value">
+                                9900
+                              </span>
+                            </span>
+                            <a href="/prod/DHAE6R-A900A5IVE">詳</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </dd>
+                    <dd node="43" class="" sys="0">
+                      <a class="prod_img" href="http://24h.pchome.com.tw/region/DHAX"><img alt="" title="" src="//f.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20161205184745_b12-43-120x120.jpg"/></a>
+                      <div class="prod_info">
+                        <h5 class="nick">
+                          <a href="http://24h.pchome.com.tw/region/DHAX">
+                            <span class="extra">
+                            </span>
+                            標準型筆電
+                            <br></b>
+                            通勤簡便攜帶
+                          </a>
+                        </h5>
+                        <span class="slogan">
+                          ► ►
+                          <font color="red">
+                            $18900up
+                          </font>
+                        </span>
+                        <ul class="price_box">
+                          <li>
+                            
+                網路價
+                            <span class="price">
+                              $
+                              <span class="value">
+                                18900
+                              </span>
+                            </span>
+                            <a href="http://24h.pchome.com.tw/region/DHAX">詳</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </dd>
+                    <dd node="44" class="" sys="0">
+                      <a class="prod_img" href="/prod/DHAFFU-A9009WGV7"><img alt="" title="" src="//c.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20191020133454_b12-44-320x320.jpg"/></a>
+                      <div class="prod_info">
+                        <h5 class="nick">
+                          <a href="/prod/DHAFFU-A9009WGV7">
+                            <span class="extra">
+                            </span>
+                            ASUS UX410UF-0121A8250U 石英灰 (i5-8250U/FHD/4G/256G SSD/MX 130 2G獨顯/W10)
+                          </a>
+                        </h5>
+                        <span class="slogan">
+                          <font color="#FF00CC">
+                            <strong>
+                              ▼IPS面板/輕1.4kg▼
+                            </strong>
+                          </font>
+                          <br></b>
+                          <font color="#FF00CC">
+                            <strong>
+                              ★原價$28900 直升8G記憶體★
+                            </strong>
+                          </font>
+                          <br></b>
+                          ASUS ZenBook UX410UF 石英灰
+                          <br></b>
+                          <font color="#5c18d8">
+                            IPS面板/輕1.4kg★同心圓髮絲紋設計
+                          </font>
+                        </span>
+                        <ul class="price_box">
+                          <li>
+                            
+                網路價
+                            <span class="price">
+                              $
+                              <span class="value">
+                                22988
+                              </span>
+                            </span>
+                            <a href="/prod/DHAFFU-A9009WGV7">詳</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </dd>
+                    <dd node="45" class="" sys="0">
+                      <a class="prod_img" href="/prod/DHBF3Z-A900A6CH4"><img alt="" title="" src="//e.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20190807135640_b12-45-320x320.jpg"/></a>
+                      <div class="prod_info">
+                        <h5 class="nick">
+                          <a href="/prod/DHBF3Z-A900A6CH4">
+                            <span class="extra">
+                            </span>
+                            Lenovo IdeaPad S540-14IWL 81ND008PTW (i5-8265U/8G/512G SSD/MX250 2G獨顯/W10/FHD/深淵藍)
+                          </a>
+                        </h5>
+                        <span class="slogan">
+                          <font color="red">
+                            <strong>
+                              <font color="RED">
+                                輕1.5kg★厚度僅15.9mm
+                              </font>
+                              <br></b>
+                              Lenovo IdeaPad S540-14IWL 81ND008PTW
+                              <br></b>
+                              14吋窄邊SSD筆電
+                              <br></b>
+                              <font color="c90026">
+                                FHD高畫質面板★續航力長達12小時
+                              </font>
+                            </strong>
+                          </font>
+                        </span>
+                        <ul class="price_box">
+                          <li>
+                            
+                網路價
+                            <span class="price">
+                              $
+                              <span class="value">
+                                27990
+                              </span>
+                            </span>
+                            <a href="/prod/DHBF3Z-A900A6CH4">詳</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </dd>
+                    <dd node="46" class="" sys="0">
+                      <a class="prod_img" href="/prod/DHBF02-A9009XR8Z"><img alt="" title="" src="//b.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20190807134303_b12-46-320x320.jpg"/></a>
+                      <div class="prod_info">
+                        <h5 class="nick">
+                          <a href="/prod/DHBF02-A9009XR8Z">
+                            <span class="extra">
+                            </span>
+                            Lenovo IdeaPad S340-14IWL 81N7006BTW (i5-8265U/4G/1TB+256G SSD/MX230 2G獨顯/W10/FHD/白金灰)
+                          </a>
+                        </h5>
+                        <span class="slogan">
+                          <font color="#FF00CC">
+                            <strong>
+                              14吋輕薄筆電1TB+256G★3邊窄邊框
+                            </strong>
+                          </font>
+                          <br></b>
+                          IdeaPad S340 81N7006BTW 14吋輕薄新機
+                          <br></b>
+                          <font color="a62834">
+                            MX230獨顯x10小時電池續航力
+                          </font>
+                        </span>
+                        <ul class="price_box">
+                          <li>
+                            
+                網路價
+                            <span class="price">
+                              $
+                              <span class="value">
+                                22990
+                              </span>
+                            </span>
+                            <a href="/prod/DHBF02-A9009XR8Z">詳</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </dd>
+                    <dd node="47" class="" sys="0">
+                      <a class="prod_img" href="/prod/DHAEBK-1900A7ZD7"><img alt="" title="" src="//d.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20190828184450_b12-47-320x320.jpg"/></a>
+                      <div class="prod_info">
+                        <h5 class="nick">
+                          <a href="/prod/DHAEBK-1900A7ZD7">
+                            <span class="extra">
+                            </span>
+                            ACER SF714-52T-748F(i7-8500Y/16GB/512GB PCIe SSD/W10/FHD)
+                          </a>
+                        </h5>
+                        <span class="slogan">
+                          <font color="#FF00CC">
+                            <strong>
+                              輕薄Swift7▼超夯新上市▼
+                            </strong>
+                          </font>
+                          <br></b>
+                          ACER SF714-52T-748F
+                          <br></b>
+                          <font>
+                            <font color="green">
+                              8代i7 ∥ 512G PCIe SSD ∥ 輕薄0.89kg ∥ 可觸控
+                            </font>
+                          </font>
+                        </span>
+                        <ul class="price_box">
+                          <li>
+                            
+                網路價
+                            <span class="price">
+                              $
+                              <span class="value">
+                                54900
+                              </span>
+                            </span>
+                            <a href="/prod/DHAEBK-1900A7ZD7">詳</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </dd>
+                    <dd node="48" class="" sys="0">
+                      <a class="prod_img" href="http://24h.pchome.com.tw/region/DHAR"><img alt="" title="" src="//f.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20161205184827_b12-48-120x120.jpg"/></a>
+                      <div class="prod_info">
+                        <h5 class="nick">
+                          <a href="http://24h.pchome.com.tw/region/DHAR">
+                            <span class="extra">
+                            </span>
+                            九宮格數字鍵盤
+                            <br></b>
+                             娛樂/文書必選筆電
+                          </a>
+                        </h5>
+                        <span class="slogan">
+                          ► ►
+                          <font color="red">
+                            $21900up
+                          </font>
+                        </span>
+                        <ul class="price_box">
+                          <li>
+                            
+                網路價
+                            <span class="price">
+                              $
+                              <span class="value">
+                                21900
+                              </span>
+                            </span>
+                            <a href="http://24h.pchome.com.tw/region/DHAR">詳</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </dd>
+                    <dd node="49" class="" sys="0">
+                      <a class="prod_img" href="/prod/DHAFIX-A900A2JK1"><img alt="" title="" src="//c.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20190807134356_b12-49-320x320.jpg"/></a>
+                      <div class="prod_info">
+                        <h5 class="nick">
+                          <a href="/prod/DHAFIX-A900A2JK1">
+                            <span class="extra">
+                            </span>
+                            ASUS X509FB-0031G8265U 星空灰 (i5-8265U/4G/1TB/MX 110 2G獨顯/FHD/W10)
+                          </a>
+                        </h5>
+                        <span class="slogan">
+                          <font color="BLUE">
+                            大尺寸窄邊xMX 110獨顯x輕1.8kg
+                          </font>
+                          <br></b>
+                          ASUS X509FB-0031G8265U 星空灰
+                          <br></b>
+                          15.6吋窄邊筆電
+                        </span>
+                        <ul class="price_box">
+                          <li>
+                            
+                網路價
+                            <span class="price">
+                              $
+                              <span class="value">
+                                19900
+                              </span>
+                            </span>
+                            <a href="/prod/DHAFIX-A900A2JK1">詳</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </dd>
+                    <dd node="50" class="" sys="0">
+                      <a class="prod_img" href="/prod/DHBF02-1900A9LKL"><img alt="" title="" src="//e.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20191020133715_b12-50-320x320.jpg"/></a>
+                      <div class="prod_info">
+                        <h5 class="nick">
+                          <a href="/prod/DHBF02-1900A9LKL">
+                            <span class="extra">
+                            </span>
+                            Lenovo IdeaPad 530s 15IKB 81EV00CUTW (i5-8250U/8G/512G SSD/MX150 2G獨顯/W10/FHD/黑)
+                          </a>
+                        </h5>
+                        <span class="slogan">
+                          <font color="#5c18d8">
+                            大尺寸★輕1.69kg．三邊窄邊框
+                          </font>
+                          <br></b>
+                          Lenovo IdeaPad 530s 15IKB 81EV00CUTW
+                        </span>
+                        <ul class="price_box">
+                          <li>
+                            
+                網路價
+                            <span class="price">
+                              $
+                              <span class="value">
+                                24990
+                              </span>
+                            </span>
+                            <a href="/prod/DHBF02-1900A9LKL">詳</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </dd>
+                    <dd node="51" class="" sys="0">
+                      <a class="prod_img" href="/prod/DHAB91-A900A6QFQ"><img alt="" title="" src="//b.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20190828184522_b12-51-320x320.jpg"/></a>
+                      <div class="prod_info">
+                        <h5 class="nick">
+                          <a href="/prod/DHAB91-A900A6QFQ">
+                            <span class="extra">
+                            </span>
+                            ACER Aspire A715-74G-52MV(i5-9300H/GTX1050-3G/4GB/1TB HDD/FHD/W10)
+                          </a>
+                        </h5>
+                        <span class="slogan">
+                          <font color="#FF00CC">
+                            <strong>
+                              全新9代電競▼霸氣登場
+                            </strong>
+                          </font>
+                          <br></b>
+                          ACER Aspire A715-74G-52MV 窄邊電競
+                          <br></b>
+                          <font>
+                            <font color="GREEN">
+                              9代i5 ∥ GTX1050 ∥ 1TB
+                            </font>
+                          </font>
+                        </span>
+                        <ul class="price_box">
+                          <li>
+                            
+                網路價
+                            <span class="price">
+                              $
+                              <span class="value">
+                                25900
+                              </span>
+                            </span>
+                            <a href="/prod/DHAB91-A900A6QFQ">詳</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </dd>
+                    <dd node="52" class="" sys="0">
+                      <a class="prod_img" href="/prod/DHBF3Y-A900A5G7I"><img alt="" title="" src="//d.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20190807135345_b12-52-320x320.jpg"/></a>
+                      <div class="prod_info">
+                        <h5 class="nick">
+                          <a href="/prod/DHBF3Y-A900A5G7I">
+                            <span class="extra">
+                            </span>
+                            Lenovo IdeaPad S540-15IWL 81NE0063TW (i5-8265U/8G/256G SSD/MX250獨顯/W10/FHD/深淵藍)
+                          </a>
+                        </h5>
+                        <span class="slogan">
+                          <font color="red">
+                            <strong>
+                              <font color="RED">
+                                輕1.8kg★厚度僅16.9mm
+                              </font>
+                              <br></b>
+                              Lenovo IdeaPad S540-15IWL 81NE0063TW
+                              <br></b>
+                              15.6吋窄邊SSD筆電
+                              <br></b>
+                              <font color="c90026">
+                                FHD高畫質面板★續航力長達15小時
+                              </font>
+                            </strong>
+                          </font>
+                        </span>
+                        <ul class="price_box">
+                          <li>
+                            
+                網路價
+                            <span class="price">
+                              $
+                              <span class="value">
+                                25990
+                              </span>
+                            </span>
+                            <a href="/prod/DHBF3Y-A900A5G7I">詳</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </dd>
+                    <dd node="53" class="" sys="0">
+                      <a class="prod_img" href="http://24h.pchome.com.tw/region/DHAC"><img alt="" title="" src="//f.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20161205184901_b12-53-120x120.jpg"/></a>
+                      <div class="prod_info">
+                        <h5 class="nick">
+                          <a href="http://24h.pchome.com.tw/region/DHAC">
+                            <span class="extra">
+                            </span>
+                            大視野 爽度夠
+                            <br></b>
+                            取代桌機最佳選擇
+                          </a>
+                        </h5>
+                        <span class="slogan">
+                          ► ►
+                          <font color="red">
+                            $44900up
+                          </font>
+                        </span>
+                        <ul class="price_box">
+                          <li>
+                            
+                網路價
+                            <span class="price">
+                              $
+                              <span class="value">
+                                44900
+                              </span>
+                            </span>
+                            <a href="http://24h.pchome.com.tw/region/DHAC">詳</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </dd>
+                    <dd node="54" class="" sys="0">
+                      <a class="prod_img" href="/prod/DHBF3O-1900A59AJ"><img alt="" title="" src="//c.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20190807135420_b12-54-320x320.jpg"/></a>
+                      <div class="prod_info">
+                        <h5 class="nick">
+                          <a href="/prod/DHBF3O-1900A59AJ">
+                            <span class="extra">
+                            </span>
+                            Lenovo IdeaPad Y740 17ICHG 81HH000BTW(17.3/i7-8750H/32G/1TB+512G SSD/RTX 2080 8G獨顯/W10)
+                          </a>
+                        </h5>
+                        <span class="slogan">
+                          <font color="red">
+                            <strong>
+                              ★登錄送《Legion +20強化戰鬥包(市價$8000)》Y740再加送Mycard 1000點數(需登錄)
+                            </strong>
+                          </font>
+                          <br></b>
+                          Lenovo Y740 17.3吋RTX 2080 8G獨顯電競筆電
+                        </span>
+                        <ul class="price_box">
+                          <li>
+                            
+                網路價
+                            <span class="price">
+                              $
+                              <span class="value">
+                                61990
+                              </span>
+                            </span>
+                            <a href="/prod/DHBF3O-1900A59AJ">詳</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </dd>
+                    <dd node="55" class="" sys="0">
+                      <a class="prod_img" href="/prod/DHAS4K-A900930N4"><img alt="" title="" src="//e.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20180727122244_b12-55-320x320.jpg"/></a>
+                      <div class="prod_info">
+                        <h5 class="nick">
+                          <a href="/prod/DHAS4K-A900930N4">
+                            <span class="extra">
+                            </span>
+                            ASUS ROG STRIX SCAR GL703GS-0041A8750H (i7-8750H/FHD/16G/1T&8G SSH+256GB/GTX1070 8G獨顯/W10)
+                          </a>
+                        </h5>
+                        <span class="slogan">
+                          <font color="#5c18d8">
+                            登錄送★ROG潮電競禮盒
+                          </font>
+                          <br></b>
+                          <font color="RED">
+                            ★內建1年版Office365
+                          </font>
+                          <br></b>
+                          <font color="#a23905">
+                            [吃雞重裝版]
+                          </font>
+                          ROG STRIX SCAR GL703GS-0041A8750H
+                          <br></b>
+                          <font color="#5c18d8">
+                            144Hz 螢幕★全彩背光鍵盤★3風扇
+                          </font>
+                        </span>
+                        <ul class="price_box">
+                          <li>
+                            
+                網路價
+                            <span class="price">
+                              $
+                              <span class="value">
+                                67900
+                              </span>
+                            </span>
+                            <a href="/prod/DHAS4K-A900930N4">詳</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </dd>
+                    <dd node="56" class="" sys="0">
+                      <a class="prod_img" href="/prod/DHAB9N-1900A6BBM"><img alt="" title="" src="//b.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20190828184541_b12-56-320x320.jpg"/></a>
+                      <div class="prod_info">
+                        <h5 class="nick">
+                          <a href="/prod/DHAB9N-1900A6BBM">
+                            <span class="extra">
+                            </span>
+                            ACER AN515-54-55GS(i5-9300H/GTX1650-4G/256GB PCIe SSD+1TB/8GB/W10/FHD)
+                          </a>
+                        </h5>
+                        <span class="slogan">
+                          <font color="#FF00CC">
+                            <strong>
+                              9代電競霸氣登場▼原廠登錄送豪禮
+                            </strong>
+                          </font>
+                          <br></b>
+                          ACER AN515-54-55GS 窄邊電競
+                          <br></b>
+                          <font>
+                            <font color="GREEN">
+                              9代i5 ∥ GTX1650 ∥ 256G PCIe+1TB
+                            </font>
+                          </font>
+                        </span>
+                        <ul class="price_box">
+                          <li>
+                            
+                網路價
+                            <span class="price">
+                              $
+                              <span class="value">
+                                31900
+                              </span>
+                            </span>
+                            <a href="/prod/DHAB9N-1900A6BBM">詳</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </dd>
+                    <dd node="57" class="" sys="0">
+                      <a class="prod_img" href="/prod/DHAK5S-A900A16HY"><img alt="" title="" src="//d.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20190828103322_b12-57-320x320.jpg"/></a>
+                      <div class="prod_info">
+                        <h5 class="nick">
+                          <a href="/prod/DHAK5S-A900A16HY">
+                            <span class="extra">
+                            </span>
+                            MSI微星 GE75 9SE-468TW(i7-9750H/16G/1T+1T SSD/RTX2060-6G/Win10) 筆電
+                          </a>
+                        </h5>
+                        <span class="slogan">
+                          <font color="#FF00CC">
+                            <strong>
+                              原價$61900★9代i7加碼送電競豪禮
+                            </strong>
+                          </font>
+                          <br></b>
+                          MSI微星 GE75 9SE-468TW(i7-9750H/16G/1T+1T SSD/RTX2060-6G/Win10) 筆電
+                        </span>
+                        <ul class="price_box">
+                          <li>
+                            
+                網路價
+                            <span class="price">
+                              $
+                              <span class="value">
+                                56900
+                              </span>
+                            </span>
+                            <a href="/prod/DHAK5S-A900A16HY">詳</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </dd>
+                  </dl>
+                </div>
+                <!-- Cm_Cl end -->                <!-- Cm_Cr start -->                <div class="Cm_Cr s_side">
+                  <!-- <div>這裡放site_onsale</div> -->                  <div id="OnSaleContainer" class="site_onsale s_festival">
+                    <a class="prod_img" href="/onsale/v3/?h24/3c"><img src="//c.ecimg.tw/img/h24/v1/layout/onsale/20191217/20191213162954_1-9-640x640.jpg" alt="任天堂 Switch 超值全能組《紅藍主機(電量加強版) + 遊戲x1 + Pro控制器》"/></a>
+                  </div>
+                  <dl id="Block13to16Container" class="site_evt">
+                    <dd _id="13">
+                      <ul>
+                        <li>
+                          <a href="https://shopping.pchome.com.tw/activity/campaign/C275732999"><img alt="" title="" src="//c.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20191216183951_b13-02-180x600.jpg"></a></a>
+                        </li>
+                        <li>
+                          <a href="https://www.pchomeec.tw/activity/AC00051773"><img alt="" title="" src="//e.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20191202103935_b13-03-180x600.jpg"></a></a>
+                        </li>
+                        <li>
+                          <a href="https://www.pchomeec.tw/activity/AC00051533"><img alt="" title="" src="//b.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20191202103935_b13-04-180x600.jpg"></a></a>
+                        </li>
+                        <li>
+                          <a href="https://shopping.pchome.com.tw/activity/campaign/C179109047"><img alt="" title="" src="//d.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20191216100130_b13-05-180x600.jpg"></a></a>
+                        </li>
+                      </ul>
+                    </dd>
+                    <dd _id="16">
+                      <ul>
+                        <li>
+                          <a href="https://shopping.pchome.com.tw/activity/campaign/C111928561"><img alt="" title="" src="//d.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20191115113548_b16-02-180x600.jpg"></a></a>
+                        </li>
+                        <li>
+                          <a href="https://shopping.pchome.com.tw/activity/campaign/C680456841"><img alt="" title="" src="//f.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20191128183007_b16-03-180x600.jpg"></a></a>
+                        </li>
+                        <li>
+                          <a href="https://24h.pchome.com.tw/store/DHAK7P"><img alt="" title="" src="//c.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20191203182310_b16-04-180x600.jpg"></a></a>
+                        </li>
+                      </ul>
+                    </dd>
+                    <dd _id="15">
+                      <ul>
+                        <li>
+                          <a href="https://shopping.pchome.com.tw/activity/campaign/C268304710"><img alt="" title="" src="//c.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20191024184925_b15-02-180x600.jpg"></a></a>
+                        </li>
+                        <li>
+                          <a href="https://24h.pchome.com.tw/store/DHAM3W"><img alt="" title="" src="//e.ecimg.tw/img/h24/v1/layout/region/D/DHAA/20191129185011_b15-03-180x600.jpg"></a></a>
+                        </li>
+                      </ul>
+                    </dd>
+                  </dl>
+                  <iframe id="pchome-xdsense" _src="/cdn/pchome-xdsense/v1/index.php/channel/h24_region_channel1.htm" scrolling="no" class="unblock">
+                  </iframe>
+                  <dl class="award_box">
+                    <dd class="head">
+                      網站介紹
+                    </dd>
+                    <dd class="body">
+                      <ul id="AwardContainer" class="list_box s_disc">
+                        <li>
+                          2018資訊月 百大創新產品獎-創新金質獎(PChome Fastag智慧標籤)
+                        </li>
+                        <li>
+                          2017DTA Award數位服務創新獎-貿易便捷化與跨境電子商務優等獎
+                        </li>
+                        <li>
+                          2017亞洲影響力品牌-網路相關服務優選
+                        </li>
+                        <li>
+                          2016商業周刊 台灣原創品牌獎
+                        </li>
+                        <li>
+                          2016天下雜誌 最佳聲望標竿企業調查-電子商務業第一名
+                        </li>
+                        <li>
+                          2016海峽兩岸發展卓越表現獎
+                        </li>
+                        <li>
+                          2016工商時報 臺灣服務業大評鑑-大型購物網站金牌
+                        </li>
+                        <li>
+                          2015資訊月 百大創新產品獎
+                        </li>
+                        <li>
+                          2015天下雜誌 金牌服務大賞 網路購物中心業 金賞
+                        </li>
+                        <li>
+                          2015經理人 影響力品牌年度大賞
+                        </li>
+                        <li>
+                          2015經理人 影響力品牌電子商務類首獎 
+                        </li>
+                        <li>
+                          2014天下雜誌 金牌服務大賞
+                        </li>
+                        <li>
+                          2012經濟部第12屆金網獎-平台獎-購物商城類金質獎
+                        </li>
+                        <li>
+                          2012第2屆國家產業創新獎-組織類-卓越創新企業獎
+                        </li>
+                        <li>
+                          2011數位時代BCG台灣創新企業百強
+                        </li>
+                        <li>
+                          2011數位時代電子商務Top50
+                        </li>
+                        <li>
+                          2011天下雜誌 金牌服務大賞
+                        </li>
+                        <li>
+                          2011數位時代 台灣科技100強 資訊服務類NO.1
+                        </li>
+                        <li>
+                          2010經濟部台灣商業服務業-優良品牌
+                        </li>
+                        <li>
+                          2009經濟部 e21金網獎-優質獎
+                        </li>
+                        <li>
+                          2009中華徵信所台灣地區大型企業
+                          <br></b>
+                          榮登TOP5000網路資訊供應業第一名
+                        </li>
+                        <li>
+                          2009資策會中華民國電子化成就獎
+                        </li>
+                        <li>
+                          2008經濟部產業創新獎-製程/流程創新獎
+                        </li>
+                        <li>
+                          2008第九屆最佳電子商務-銅手指獎 
+                        </li>
+                        <li>
+                          2006第七屆最佳電子商務-銀手指獎
+                        </li>
+                        <li>
+                          2005經濟部 e21金網獎-金質獎
+                        </li>
+                        <li>
+                          2003第四屆最佳電子商務-金手指獎
+                        </li>
+                        <li>
+                          2002第三屆最佳電子商務-金手指獎
+                        </li>
+                        <li>
+                          2002經濟部e21金網獎優質獎
+                        </li>
+                        <li>
+                          2001第二屆最佳電子商務-銅手指獎
+                        </li>
+                        <li>
+                          2000第一屆電子商務金像獎最佳電子商務
+                        </li>
+                      </ul>
+                      <ul class="awards">
+                        <li>
+                          <a class="ico niia" href="#/?m=index&f=view_award">經濟部產業創新獎</a>
+                        </li>
+                        <li>
+                          <a class="ico e21" href="/?m=index&f=view_award">經濟部e21金質獎</a>
+                        </li>
+                        <li>
+                          <a class="ico clickawards" href="/?m=index&f=view_award">金手指獎</a>
+                        </li>
+                        <li>
+                          <a class="ico norton" href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&dn=ecssl.pchome.com.tw&lang=zh_TW">Norton Secured Seal 全球信用網站認證</a>
+                        </li>
+                        <li>
+                          <span class="ico sosa">
+                            Sosa優良電子商店
+                          </span>
+                        </li>
+                        <li>
+                          <a class="ico einvoice" href="http://www.einvoice.nat.gov.tw/wSite/ct?xItem=15&ctNode=30">電子發票</a>
+                        </li>
+                      </ul>
+                    </dd>
+                  </dl>
+                </div>
+                <!-- Cm_Cr end -->              </div>
+            </div>
+            <!-- Cm end -->          </div>
+          <!-- block_C end -->          <!-- block_S start -->          <div class="block_S go_top">
+            <a id="btnBackToTop" href="javascript:void(0);">回TOP</a>
+          </div>
+          <!-- block_S end -->        </div>
+        <div class="layout-east">
+          <!-- 快捷功能列 start-->          <ul id="toolbar" class="toolbar unblock" style="top: 184.5px;">
+            <li id="ico_cart">
+              <a class="ico cart" href="http://24h.pchome.com.tw/?mod=store&func=choice_buy&page_url=shopping&NO=D&C=D">
+                購物車
+                <span class="amount unblock">
+                </span>
+              </a>
+              <a class="msg" href="//24h.pchome.com.tw/?mod=store&func=choice_buy&page_url=shopping&NO=D&C=D">購物車</a>
+            </li>
+            <li id="ico_coupon">
+              <a class="ico coupon" href="https://ecvip.pchome.com.tw/web/coupon">折價券</a>
+              <a class="msg" href="https://ecvip.pchome.com.tw/web/coupon">折價券</a>
+            </li>
+            <li id="BrowseContainer" class="unblock">
+              <a class="ico browse" href="https://ecvip.pchome.com.tw/?0x3aeac70a06872cfa63d19a20ea6eaf67e2e2bd7c2e68123d2b5669f3bdd69b313d405cc47a96cac9" target="_blank">瀏覽紀錄</a>
+              <dl class="overlay_browse">
+                <dt>
+                  瀏覽紀錄
+                </dt>
+                <dd>
+                  <dl></dl>
+                  <a id="ico_more" href="https://ecvip.pchome.com.tw/?0x3aeac70a06872cfa63d19a20ea6eaf67e2e2bd7c2e68123d2b5669f3bdd69b313d405cc47a96cac9" target="_blank" class="unblock">more</a>
+                </dd>
+              </dl>
+            </li>
+            <li id="ico_trace">
+              <a class="ico trace" href="https://ecvip.pchome.com.tw/?0xad70a21315391f5263d19a20ea6eaf679683275ee94981ab4d9ee8a8f55af4dbf93547f92611bcb319fe86d003de3ce7" target="_blank">追蹤清單</a>
+              <a class="msg" href="https://ecvip.pchome.com.tw/?0xad70a21315391f5263d19a20ea6eaf679683275ee94981ab4d9ee8a8f55af4dbf93547f92611bcb319fe86d003de3ce7" target="_blank">追蹤清單</a>
+            </li>
+            <li id="ico_gotop">
+              <span class="ico gotop goTop">
+                回TOP
+              </span>
+              <span class="msg goTop">
+                回TOP
+              </span>
+            </li>
+          </ul>
+          <!-- 快捷功能列 end-->        </div>
+      </div>
+      <!-- CONTENT end -->      <!-- FOOTER start -->      <div id="FOOTER" class="ecsite-footer">
+        <dl class="msg_box">
+          <dd>
+            <ul>
+              <li>
+                <a href="https://shopping.pchome.com.tw">PChome線上購物</a>
+              </li>
+              <li>
+                網路家庭國際資訊股份有限公司
+              </li>
+              <li>
+                版權所有
+              </li>
+              <li>
+                轉載必究
+              </li>
+              <li>
+                <a href="https://ecvip.pchome.com.tw/contact/">聯絡我們</a>
+              </li>
+              <li>
+                <a href="http://faq.pchome.com.tw/faq_solution.html?q_id=16&c_nickname=member&f_id=4">隱私權聲明</a>
+              </li>
+              <li>
+                <a href="https://ecssl.pchome.com.tw/sys/cflowex/index/staticPage/CLAUSE">服務條款</a>
+              </li>
+              <li>
+                <a class="anchor" href="https://shopping.pchome.com.tw/sitemap/" accesskey="M" title="網站導覽">:::</a>
+              </li>
+            </ul>
+          </dd>
+          <dd>
+            <ul>
+              <li>
+                106
+              </li>
+              <li>
+                台北市大安區敦化南路二段105號15樓
+              </li>
+              <li>
+                電話(不含例假日)：02-2326-1460
+              </li>
+              <li>
+                <span class="s_parenthesis">
+                  本公司不會以此電話號碼撥打給您，如有來電顯示此號碼，請勿理會
+                </span>
+              </li>
+            </ul>
+          </dd>
+          <dd>
+            PChome and PChome Online are trademarks of PChome Online Inc.
+          </dd>
+          <dd>
+            本網站產品已投保新光產物產品責任保險$250,000,000元。
+            <span class="s_parenthesis">
+              保險證號：130008AKP0000930
+            </span>
+          </dd>
+          <dd>
+            <ul class="bar_version">
+              <li>
+                前往：
+                <a href="" id="goMobile">手機版</a>
+              </li>
+              <li>
+                <span>
+                  電腦版
+                </span>
+              </li>
+            </ul>
+          </dd>
+        </dl>
+      </div>
+      <!-- FOOTER end -->    </div>
+    <!-- 24h購物車 start -->    <div id="CarInfo" class="unblock site_cart">
+      <span id="theResult" class="msg">
+        加入購物車中…
+      </span>
+      <a class="cart" href="http://24h.pchome.com.tw/?mod=store&func=choice_buy&page_url=shopping&NO=D&C=D" title="點擊後進入結帳清單">
+        <span class="price">
+          $
+          <span class="value">
+            0
+          </span>
+        </span>
+        <span class="amount">
+          0
+        </span>
+        <span class="check">
+          結帳&gt;
+        </span>
+      </a>
+    </div>
+    <!-- 24h購物車 end -->    <!-- ie8-recommend start -->    <div class="ie8-recommend unblock">
+      <span class="overlay-shadow">
+      </span>
+      <div class="overlay-lightbox">
+        <p>
+          為提升交易安全，建議您
+          <span class="msg">
+            使用下列瀏覽器
+          </span>
+          ，即可順利購買。
+          <br></b>
+          請您先檢查電腦是否已安裝，如未安裝可點選圖示進行下載。
+        </p>
+        <ul class="list_browser">
+          <li>
+            <a class="chrome" href="https://www.google.com.tw/chrome/browser/desktop/" target="_blank">下載Chrome瀏覽器</a>
+          </li>
+          <li>
+            <a class="firefox" href="https://www.mozilla.org/zh-TW/firefox/new/" target="_blank">下載Firefox瀏覽器</a>
+          </li>
+        </ul>
+        <ul class="bar_tool">
+          <li>
+            <span class="ui-btn b-submit">
+              確定
+            </span>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <!-- ie8-recommend end -->  </body>
+</html>

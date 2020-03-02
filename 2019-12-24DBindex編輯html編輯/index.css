@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+.info{
+	clear:both;
+	margin:0px auto 50px;
+	
+}
+.info .infoarea{
+	float: left;
+	padding: 10px;
+	width: 23%;
+}
+.info .infoarea img{
+	width: 100%;
+	
+}
+.info >p{
+	font-size: 28px;
+	padding-top: 20px;
+	font-weight: bold;
+}
+li {
+	list-style-type: none;
+}

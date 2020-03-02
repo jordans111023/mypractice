@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>非常便宜商店</title>
+</head>
+
+<body>
+	
+	<a href="/getChart/">圖表呈現</a><p></p>
+	
+	<table width="100%" border="1">
+		<tr>
+			<td>日期</td>
+			<td>開盤</td>
+			<td>收盤</td>
+			<td>成交量</td>
+		</tr>
+	{% for plist in shop_list %}
+	    
+		
+		<tr>
+			<td>{{ plist.create_date }}</td>
+			<td>{{ plist.openprice }}</td>
+			<td>{{ plist.closeprice }}</td>
+			<td>{{ plist.volume }}</td>
+		</tr>
+		
+		
+		
+	{% endfor %}	
+	</table>
+</body>
+</html>

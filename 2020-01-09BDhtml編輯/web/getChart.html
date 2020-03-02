@@ -1,0 +1,65 @@
+{% extends "base.html" %}
+
+{% block banner %}
+
+	股票圖表
+
+{% endblock %}
+{% block content %}
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	<script src="http://code.highcharts.com/highcharts.js"></script>
+	
+	
+
+
+
+	
+	<div id="container" style="width: 550px;height: 400px;margin: 0 auto"></div>
+	<script language="JavaScript">
+		$(document).ready(function(){
+			var title = {
+				text:'股票走勢'
+			};
+			var subtitle={
+				text:'資訊來源:證券交易所'
+			};
+			var xAxis={
+				categories:[]
+			};
+			var yAxis={
+				title:{
+					text:'價格(元)'
+			},
+				plotLines:[{
+					value:0,
+					width:1,
+					color:'#808080'
+				}]
+			};
+			var tooltip={
+				valueSuffix:'元'
+			};
+			var legend={
+				layout:'vertical',
+				align:'right',
+				verticalAlign:'middle',
+				borderWidth:0
+			};
+			var series=[{
+				name:'台積電',
+				data:{{listdata}}
+			}];
+			var json={};
+			json.title=title;
+			json.subtitle=subtitle;
+			json.xAxis=xAxis;
+			json.yAxis=yAxis;
+			json.tooltip=tooltip;
+			json.legend=legend;
+			json.series=series;
+			
+			$('#container').highcharts(json);
+		});
+	</script>
+	
+{% endblock %}

@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>非常便宜商店</title>
+	
+	<link rel="stylesheet" href="/static/css/index.css"/>
+	
+	
+</head>
+
+<body>
+	
+	
+	<form action=""    method="get">
+		搜尋商品名稱:<input type="text" name='product' /><br>
+		價格:<input type="text" name='startp' />至<input type="text" name='endp' /><br>
+		<input type="submit" value="查詢"/>
+	</form>
+	
+
+  <div class="info">	
+		{% for plist in shop_list %}
+		<div class="infoarea">
+			<ul>
+				
+				<li>商城:{{plist.webname}}</li>
+				<li><a href="{{plist.link}}" target="_blank"><img src="{{plist.photo_url}}" /></a></li>
+				<li>商品名稱:{{plist.title}}</li>
+				<li>價格:{{plist.price}}</li>
+			
+	    	
+			</ul>
+	  	</div>    
+	  	
+		{% endfor %}	
+  
+  </div>	
+</body>
+</html>

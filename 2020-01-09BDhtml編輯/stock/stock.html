@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+
+{% block banner %}
+
+	股市趨勢
+
+{% endblock %}
+
+
+
+
+{% block content %}
+	
+	<a href="/getChart/">圖表呈現</a><p></p>
+	
+	{% for g in group %}
+	
+	<span><a style="color: #ff0000" href="?no={{g.no}}">{{g.no}}</a></span>
+	
+	{% endfor %}
+	
+	<table width="100%" border="1">
+		<tr>
+			<td>日期</td>
+			<td>開盤</td>
+			<td>收盤</td>
+			<td>成交量</td>
+		</tr>
+	{% for plist in shop_list %}
+	    
+		
+		<tr>
+			<td>{{ plist.create_date }}</td>
+			<td>{{ plist.openprice }}</td>
+			<td>{{ plist.closeprice }}</td>
+			<td>{{ plist.volume }}</td>
+		</tr>
+		
+		
+		
+	{% endfor %}	
+	</table>
+{% endblock %}
+
